@@ -46,6 +46,14 @@ The dashboard enables users to quickly identify trends, track KPIs, and gain a c
 
 ---
 
+## 🧹 Data Cleaning
+Data preprocessing and cleaning were performed using Power BI Power Query Editor. The following steps were applied:
+- Handling missing values  
+- Data transformation and formatting  
+- Filtering and structuring data for analysis
+
+---
+
 ## 📂 Project Structure
 
 ```
