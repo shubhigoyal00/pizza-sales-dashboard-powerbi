@@ -1,0 +1,1001 @@
+OrderID,OrderDate,Region,Outlet,PizzaCategory,Size,Quantity,PricePerPizza,DiscountPct,CustomerAge,CustomerGender,PaymentMode,SalesAmount,Profit,Returned
+5529,03/06/2022, South,Outlet_16,VEGGIE SUPREME,extra large,2,788.0,6.13,70,Female,card,1479.39,732.0,No
+5915,15-7-23,South,Outlet_18,Four Cheese,Small,3,413.0,11.71,14,,upi,1093.91,32.39,No
+5588,23-12-2023,East ,Outlet_16,paneer tikka,small,1,371.0,2.07,61,Male,upi,363.32,-91.08,Yes
+5032,27-5-22,North,Outlet_18,Veggie Supreme,medium,1,408.0,1.15,70,Female,Wallet,403.31,-23.89,No
+5137,2021/12/14,EAST,Outlet_20,PANEER TIKKA,large,1,607.0,6.48,67,Male,Card,567.67,117.02,No
+5731,10-02-2021, West,Outlet_14,cheese burst,extra large,1,877.0,8.66,50,Male,cash,801.05,189.46,No
+5299,20 Apr 2022,South ,Outlet_7,Margherita,Medium,1,295.0,6.33,36,,Cash,276.33,2.77,No
+5947,09-08-2023,west,Outlet_20,Veggie Supreme,extra large,2,746.0,8.0,24,Female,UPI,1372.64,326.33,No
+5399,2022/10/20,Central,Outlet_14,four cheese,Large,1,692.0,0.0,53,Female,UPI,692.0,177.18,No
+5598,2023/01/08,central,Outlet_19,BBQ Chicken,medium,4,383.0,16.07,45,,UPI,1285.81,303.76,Yes
+5952,17-6-22,South ,Outlet_7,PEPPERONI,Large,1,,19.01,44,Other,upi,,,No
+5508,12-05-2022,EAS,Outlet_9,Paneer Tikka,extra large,1,774.0,1.99,32,Female,Card,758.6,93.9,No
+5335,04/05/2021, East,Outlet_15,BBQ CHICKEN,Extra Large,3,614.0,10.47,15,Other,cash,1649.14,301.44,No
+5553,7 Oct 2023,East,Outlet_2,VEGGIE SUPREME,Large,3,617.0,7.21,43,Female,card,1717.54,198.67,No
+5895,2023-07-25,central,Outlet_13,paneer tikka,extra large,1,784.0,20.99,34,Female,UPI,619.44,94.47,Yes
+5650,19-3-22,south,Outlet_7,mexican green wave,Extra Large,1,791.0,7.47,32,Other,cash,731.91,309.32,No
+5637,2023-08-05,east,Outlet_13,Margherita,small,1,257.0,3.84,30,Other,netbanking,247.13,56.04,No
+5297,2022/06/12,Central,Outlet_14,FOUR CHEESE,Medium,1,467.0,15.06,36,Female,Wallet,396.67,251.54,No
+5808,11/26/2021,south,Outlet_13,PANEER TIKKA,small,3,366.0,11.41,26,Male,card,972.72,103.69,Yes
+5409,2021-06-14,south,Outlet_4,FOUR CHEESE,Extra Large,1,869.0,17.51,45,Other,UPI,716.84,55.05,No
+5942,4-2-21,North ,Outlet_5,Four Cheese,Small,1,360.0,3.07,69,,Wallet,348.95,130.47,No
+5583,23-11-23,SOU,Outlet_14,MEXICAN GREEN WAVE,large,3,,7.62,36,Male,UPI,957.99,436.02,No
+5060,7-6-23,south,Outlet_12,Paneer Tikka,medium,1,435.0,0.65,70,,Card,432.17,176.57,No
+5169,12 Nov 2021,WEST,Outlet_3,cheese burst,Medium,1,468.0,9.9,15,Other,Card,506.0,0.28,No
+5395,2021-12-17, Central,Outlet_19,pepperoni,Small,1,323.0,14.97,53,Male,cash,411.97,-55.22,No
+5784,21 Dec 2021,central,Outlet_1,PANEER TIKKA,Large,1,565.0,0.64,54,Other,NetBanking,842.08,-332.16,No
+5744,15 Apr 2021,north,Outlet_13,MARGHERITA,Large,3,464.0,8.89,52,,Cash,1268.25,-82.26,No
+5140,24-8-21, South,Outlet_3,meat lovers,Small,2,,2.15,61,Female,Wallet,704.95,192.04,No
+5603,12 Jul 2021,west,Outlet_16,mexican green wave,Medium,1,427.0,11.44,45,Female,Card,378.15,173.34,No
+5245,10/12/2023,south,Outlet_20,margherita,extra large,3,520.0,18.96,14,Other,cash,1264.22,195.22,No
+5182,9 Feb 2022,EAS,Outlet_13,Four Cheese,medium,2,497.0,9.85,26,Female,NetBanking,896.09,109.56,No
+5482,16 Jul 2021,west,Outlet_3,hawaiian,large,3,621.0,15.2,56,,NetBanking,1579.82,253.03,No
+5087,2022/01/10,central,Outlet_7,BBQ Chicken,medium,3,395.0,3.47,12,Female,NetBanking,1143.88,188.26,No
+5802,2021-08-17,NOR,Outlet_8,BBQ CHICKEN,medium,3,363.0,13.73,30,,Cash,939.48,162.41,No
+5334,2021/08/08, North,Outlet_4,MARGHERITA,Large,1,462.0,-10.0,47,Other,card,508.2,353.03,No
+5260,2021-06-10,North,Outlet_16,PANEER TIKKA,small,1,363.0,3.35,45,Other,Wallet,350.84,82.13,No
+5406,3 May 2022,east,Outlet_16,Meat Lovers,extra large,1,924.0,1.35,56,Female,upi,911.53,356.07,No
+5108,01-03-2023,east,Outlet_16,PANEER TIKKA,Extra Large,2,754.0,15.21,15,Female,wallet,1278.63,149.53,Yes
+5363,07-10-2021,NOR,Outlet_12,Pepperoni,Medium,1,415.0,11.69,42,Female,wallet,366.49,58.88,No
+5965,21-11-2023,South ,Outlet_2,BBQ CHICKEN,small,2,308.0,6.51,49,,Cash,575.9,91.04,No
+5211,2023/06/23,North ,Outlet_8,Margherita,medium,1,317.0,20.22,67,Female,upi,252.9,62.33,No
+5232,12/24/2021,north,Outlet_8,MEAT LOVERS,Extra Large,1,927.0,3.66,60,Other,card,893.07,141.64,Yes
+5930,18 Feb 2021, North,Outlet_7,Cheese Burst,Large,1,670.0,4.8,49,Male,Cash,637.84,-37.76,No
+5347,03-05-2021,SOUTH,Outlet_4,Peri Peri,extra large,1,798.0,20.17,53,Female,upi,637.04,206.61,No
+5537,2022/01/02,South ,Outlet_1,hawaiian,small,3,376.0,5.0,18,Male,cash,1071.6,277.72,No
+5097,14 Oct 2021,North,Outlet_16,HAWAIIAN,small,1,350.0,16.85,29,,Card,291.03,64.85,No
+5077,2021/11/21, South,Outlet_4,FOUR CHEESE,large,1,657.0,12.77,32,Other,card,573.1,25.21,No
+5345,25-12-2023, South,Outlet_8,HAWAIIAN,Medium,1,421.0,3.78,67,Other,wallet,405.09,-17.06,No
+5310,2023-02-26,EAST,Outlet_13,BBQ CHICKEN,Extra Large,1,680.0,0.0,23,,card,680.0,325.86,No
+5658,19-12-2023, Central,Outlet_20,Four Cheese,Extra Large,1,869.0,200.0,51,Female,UPI,-869.0,217.75,No
+5998,02/12/2023,central,Outlet_19,VEGGIE SUPREME,Large,1,577.0,35.1,48,Female,UPI,187.24,73.25,No
+5899,3-5-23,West,Outlet_13,hawaiian,large,1,,0.0,53,Female,Wallet,340.0,44.47,
+5621,2021-01-20,EAS,Outlet_7,Margherita,extra large,2,523.0,4.61,37,,wallet,997.78,235.28,No
+5855,17-11-23,North,Outlet_17,mexican green wave,Extra Large,1,784.0,17.99,22,Other,cash,642.96,60.23,No
+5011,2021/02/02, East,Outlet_8,mexican green wave,extra large,1,770.0,21.73,25,,card,602.68,81.27,No
+9001,31-02-2022,north  ,Outlet_99,Margherita ,large,2,320.0,10.0,25,Male,Card,640.0,60.0,No
+5329,2022/09/28,CENTRAL,Outlet_15,paneer tikka,Extra Large,1,723.0,8.03,34,Male,cash,664.94,83.42,No
+5704,01-02-2021,NORTH,Outlet_14,Cheese Burst,Medium,4,519.0,15.42,18,Male,NetBanking,1755.88,144.72,No
+5278,2022/10/19,south,Outlet_14,paneer tikka,large,1,597.0,0.0,35,Other,Card,597.0,12.31,No
+5291,10-4-21, Central,Outlet_10,paneer tikka,extra large,1,755.0,10.15,19,,upi,678.37,349.56,No
+5199,7 Jan 2022,North,Outlet_8,bbq chicken,medium,1,343.0,2.81,62,Male,NetBanking,333.36,92.8,No
+5324,2023/05/09,North,Outlet_20,Mexican Green Wave,Small,3,351.0,0.0,17,Male,netbanking,1053.0,362.9,No
+5891,2021-06-13,NORTH,Outlet_1,MARGHERITA,Large,1,409.0,14.01,21,Female,NetBanking,351.7,76.64,No
+5533,10-12-23,WES,Outlet_11,CHEESE BURST,Small,1,383.0,18.63,21,Female,Cash,311.65,53.7,No
+5031,2023-01-13,West ,Outlet_1,Mexican Green Wave,large,1,641.0,6.17,39,Other,cash,601.45,85.93,No
+5782,25-10-22,East ,Outlet_18,paneer tikka,Extra Large,1,731.0,6.27,64,Male,NetBanking,685.17,-95.2,No
+5897,2023/02/15,WEST,Outlet_15,Four Cheese,Extra Large,1,855.0,20.52,48,Other,Wallet,679.55,345.21,No
+5055,2 Oct 2023,East ,Outlet_10,bbq chicken,medium,1,354.0,11.4,52,Female,Card,313.64,72.61,No
+5024,28 Feb 2022, Central,Outlet_10,FARMHOUSE,small,1,333.0,6.31,36,,UPI,311.99,122.12,No
+5071,14-12-2022,East,Outlet_18,bbq chicken,medium,1,335.0,0.15,30,,netbanking,334.5,75.43,No
+5448,02-11-2023, Central,Outlet_7,CHEESE BURST,Extra Large,1,883.0,5.86,63,Other,NetBanking,831.26,186.83,No
+5004,27-11-2022,SOU,Outlet_12,pepperoni,small,2,309.0,22.63,20,,card,478.15,159.46,No
+5248,9 Mar 2021,West ,Outlet_7,MEAT LOVERS,Extra Large,1,910.0,0.0,25,Other,UPI,910.0,46.12,No
+5889,06-04-2022,South,Outlet_20,FARMHOUSE,Large,1,583.0,19.3,26,Male,NetBanking,470.48,-2.57,No
+5827,12/24/2022, North,Outlet_5,margherita,Medium,1,315.0,4.65,18,Female,card,300.35,166.59,No
+5515,20-09-2023,WEST,Outlet_9,pepperoni,large,1,553.0,18.4,47,Female,Wallet,451.25,32.92,No
+5486,10/24/2022,north,Outlet_19,HAWAIIAN,Extra Large,2,781.0,8.07,60,Female,wallet,1435.95,359.58,No
+5661,2023-02-20,SOU,Outlet_16,peri peri,medium,1,442.0,10.65,53,Male,UPI,592.39,94.91,No
+5167,12-9-21,South ,Outlet_15,cheese burst,Medium,1,498.0,19.26,63,Other,UPI,402.09,136.04,No
+5890,06/21/2021,south,Outlet_16,PEPPERONI,large,1,545.0,11.91,37,Male,Cash,480.09,180.05,No
+5887,1 Apr 2023,East,Outlet_11,PANEER TIKKA,extra large,1,754.0,23.68,68,,Cash,575.45,91.56,No
+5978,2 Jan 2022,CEN,Outlet_14,Hawaiian,Large,1,580.0,8.65,37,,upi,529.83,45.34,No
+5484,12/01/2022, Central,Outlet_13,mexican green wave,Extra Large,2,814.0,0.0,69,,Card,1628.0,67.75,No
+5185,03/27/2023, South,Outlet_3,Mexican Green Wave,large,1,652.0,9.13,65,Male,netbanking,592.47,154.25,No
+5405,2023/07/02,North ,Outlet_14,BBQ CHICKEN,extra large,2,680.0,12.17,42,,Wallet,1194.49,-90.0,No
+5450,2022-02-10,EAS,Outlet_3,mexican green wave,Extra Large,1,763.0,30.22,53,Other,NetBanking,532.42,39.31,No
+5306,08/22/2022, North,Outlet_6,mexican green wave,Medium,1,475.0,16.06,27,Female,NetBanking,398.72,-1.77,No
+5412,12 Nov 2023,south,Outlet_5,PERI PERI,large,2,613.0,11.78,39,Other,Cash,1081.58,91.12,No
+5266,04-10-2022,North,Outlet_2,PANEER TIKKA,Large,1,565.0,0.0,31,Male,Cash,565.0,163.1,No
+5040,2-3-22,North ,Outlet_3,PEPPERONI,extra large,1,706.0,7.61,15,Female,Card,652.27,129.38,No
+5902,3 May 2023,west,Outlet_3,farmhouse,Small,1,314.0,14.41,70,,card,268.75,50.72,No
+5159,2021/04/03,EAST,Outlet_20,Veggie Supreme,small,1,338.0,18.79,20,,cash,274.49,94.72,No
+5276,12/03/2021,central,Outlet_16,Four Cheese,extra large,2,838.0,16.69,46,,Card,1396.28,-64.15,No
+5287,06-02-2023,WES,Outlet_1,farmhouse,large,3,564.0,16.97,69,Other,UPI,1404.87,161.27,No
+5067,04/28/2022,Central ,Outlet_18,four cheese,Medium,2,478.0,10.55,62,Male,netbanking,855.14,-27.76,No
+5425,04-02-2021,South ,Outlet_5,Four Cheese,small,2,375.0,1.97,49,Other,UPI,367.61,9.72,No
+5068,05/23/2021,SOU,Outlet_1,Four Cheese,Large,1,689.0,13.79,15,Female,card,593.99,-2.31,No
+5102,01/05/2021,central,Outlet_16,PERI PERI,extra large,1,837.0,14.49,35,Other,netbanking,715.72,283.86,No
+5200,14-06-2023, South,Outlet_16,hawaiian,Extra Large,1,,0.0,23,Male,netbanking,315.0,172.08,No
+5790,8 Nov 2021,central,Outlet_11,MEAT LOVERS,Medium,1,527.0,9.2,35,Female,netbanking,478.52,66.64,No
+5559,12/05/2023,East ,Outlet_7,Mexican Green Wave,medium,2,447.0,10.42,70,,Wallet,800.85,261.5,No
+5527,20-01-2021,east,Outlet_17,peri peri,Large,1,615.0,7.94,28,Other,Card,566.17,-87.03,No
+5888,2023/06/05,South ,Outlet_20,Cheese Burst,Medium,2,496.0,8.65,43,,cash,906.19,175.81,No
+5618,2023/10/27, North,Outlet_1,four cheese,extra large,1,882.0,0.05,59,Male,Wallet,881.56,36.51,No
+5545,07-08-2022,Central ,Outlet_1,VEGGIE SUPREME,small,1,338.0,0.0,29,,card,338.0,139.31,No
+5923,20-6-21,East ,Outlet_17,Paneer Tikka,Extra Large,2,775.0,6.14,27,Female,Card,1454.83,304.58,No
+5667,2022/02/08, West,Outlet_11,bbq chicken,Medium,1,388.0,10.23,34,,wallet,417.97,74.47,No
+5389,16-11-2022, West,Outlet_7,margherita,small,1,283.0,30.48,23,Other,Wallet,196.74,31.63,No
+5255,2023-08-03,South ,Outlet_15,Peri Peri,Large,1,639.0,0.0,68,Male,Card,639.0,233.39,No
+5281,1 Jun 2021,central,Outlet_4,meat lovers,extra large,1,922.0,10.69,43,Other,wallet,823.44,122.58,No
+5449,2022-09-12,north,Outlet_15,FARMHOUSE,medium,1,429.0,9.87,27,,Cash,386.66,161.5,No
+5101,2023-05-03,EAST,Outlet_18,mexican green wave,Medium,1,422.0,0.86,70,Other,UPI,418.37,105.24,No
+5089,2021/09/10,NORTH,Outlet_11,paneer tikka,small,1,362.0,16.62,56,Other,netbanking,301.84,55.12,
+5064,05-10-2022,SOUTH,Outlet_20,FOUR CHEESE,medium,1,517.0,27.52,60,Male,wallet,374.72,-6.79,No
+5842,2021/07/19,East ,Outlet_14,MEXICAN GREEN WAVE,Extra Large,3,782.0,7.17,12,Female,netbanking,2177.79,539.43,No
+5343,25 Mar 2022,East,Outlet_6,four cheese,extra large,2,826.0,0.0,31,Male,NetBanking,1652.0,184.14,No
+5883,09/06/2023,WES,Outlet_5,MEXICAN GREEN WAVE,Small,1,367.0,7.21,64,Other,Wallet,340.54,59.97,No
+5433,27-4-21,North ,Outlet_9,FARMHOUSE,extra large,1,706.0,29.64,46,Female,Card,496.74,26.06,No
+5614,08/24/2021,NORTH,Outlet_12,FOUR CHEESE,Medium,2,511.0,10.98,46,Female,wallet,909.78,262.62,No
+5939,04/01/2021,south,Outlet_13,Mexican Green Wave,medium,1,418.0,0.0,65,Male,Cash,418.0,29.37,No
+5584,2022-03-20, Central,Outlet_10,Veggie Supreme,large,1,568.0,8.8,63,Male,Card,518.02,106.25,No
+5214,04/09/2023,South ,Outlet_15,Farmhouse,Large,1,591.0,10.54,55,Female,Wallet,528.71,313.08,No
+5110,15-09-2021,central,Outlet_4,peri peri,Large,2,628.0,150.0,46,Female,UPI,-628.0,-15.97,No
+5918,2022-05-09,East,Outlet_15,PEPPERONI,Extra Large,1,737.0,25.21,53,Other,card,551.2,92.53,No
+5216,22-01-2021,SOUTH,Outlet_6,paneer tikka,small,1,315.0,17.77,12,Other,upi,259.02,80.06,No
+5953,2022/08/01,EAS,Outlet_1,peri peri,Extra Large,5,797.0,1.27,70,,NetBanking,3934.39,384.93,No
+5517,2021-08-14,central,Outlet_1,Hawaiian,small,2,328.0,26.6,54,Female,card,481.5,20.3,No
+5756,2023/06/10,SOU,Outlet_20,MEAT LOVERS,Small,1,433.0,6.8,42,Other,wallet,403.56,-71.09,No
+5311,22 Feb 2021,CEN,Outlet_19,MEAT LOVERS,Medium,1,539.0,15.23,29,,Card,456.91,77.16,No
+5665,10-12-23,North,Outlet_6,cheese burst,Medium,2,515.0,8.6,29,Female,Cash,941.42,27.16,No
+5993,06/13/2021,north,Outlet_8,FOUR CHEESE,small,3,387.0,9.77,13,,NetBanking,1047.57,424.49,No
+5752,2023/11/02,central,Outlet_3,Mexican Green Wave,Small,1,330.0,15.19,32,Female,UPI,279.87,43.61,No
+5635,14 May 2022, South,Outlet_5,BBQ Chicken,medium,1,382.0,4.81,45,,wallet,363.63,-23.56,No
+5308,2023-09-03, North,Outlet_3,MEXICAN GREEN WAVE,Medium,1,469.0,13.31,67,Other,cash,406.58,225.8,No
+5524,02-11-2021,Central,Outlet_3,mexican green wave,Large,3,583.0,-10.0,62,Other,Card,1923.9,360.92,No
+5581,03-10-2022,north,Outlet_16,hawaiian,Extra Large,2,776.0,19.52,26,Other,netbanking,1249.05,-81.84,No
+5560,2023-05-13,central,Outlet_19,meat lovers,Large,2,742.0,9.35,27,Other,netbanking,1345.25,263.3,No
+5674,15 Apr 2023,west,Outlet_15,veggie supreme,Large,4,632.0,10.45,65,Female,Wallet,2263.82,647.31,Yes
+5966,01/05/2022,North ,Outlet_13,Peri Peri,Large,4,641.0,9.29,27,Female,Cash,2325.8,246.53,No
+5762,02/06/2021, North,Outlet_18,margherita,Medium,2,289.0,26.05,24,Female,card,427.43,253.17,No
+5600,14-3-23,EAS,Outlet_5,Meat Lovers,extra large,1,927.0,3.97,25,Female,Card,890.2,110.26,No
+5313,05/19/2022,CEN,Outlet_14,hawaiian,Medium,1,460.0,29.57,33,Male,Cash,323.98,66.69,No
+5966,01/05/2022,North ,Outlet_13,Peri Peri,Large,4,641.0,9.29,27,Female,Cash,2325.8,246.53,No
+5532,19-11-21,CENTRAL,Outlet_20,Hawaiian,Small,1,330.0,23.47,62,,UPI,252.55,22.28,No
+5209,18-4-23,East,Outlet_8,Mexican Green Wave,extra large,1,811.0,14.12,41,Male,Card,696.49,224.49,No
+5487,09/28/2021, North,Outlet_10,bbq chicken,extra large,1,628.0,0.0,61,Male,netbanking,628.0,294.38,No
+5865,1-5-21,North ,Outlet_9,CHEESE BURST,Extra Large,1,874.0,4.58,48,Female,Cash,833.97,235.83,No
+5686,25-2-22,North,Outlet_11,FARMHOUSE,extra large,1,704.0,17.6,69,,cash,580.1,-67.86,No
+5461,15-12-21,CENTRAL,Outlet_9,Hawaiian,Large,2,573.0,10.23,20,Male,Cash,1028.76,448.22,No
+5540,2021/10/21,central,Outlet_1,Peri Peri,small,1,343.0,9.8,28,Female,Card,309.39,128.26,No
+5056,19 Jun 2022, North,Outlet_3,paneer tikka,medium,2,412.0,9.4,33,Other,UPI,746.54,-152.11,No
+5121,3 Sep 2022,CENTRAL,Outlet_7,Veggie Supreme,small,1,321.0,11.49,56,Female,upi,284.12,13.54,No
+5821,2023-08-22,EAS,Outlet_13,PERI PERI,extra large,4,838.0,0.0,57,,NetBanking,3352.0,1195.4,No
+5026,22-04-2021,central,Outlet_7,Peri Peri,Small,1,392.0,12.59,66,Female,card,342.65,35.29,No
+5073,17-02-2023, Central,Outlet_12,hawaiian,Large,1,579.0,11.48,58,Male,UPI,512.53,118.89,No
+5997,2022-09-24,west,Outlet_13,Hawaiian,large,1,562.0,21.0,43,Male,upi,443.98,-109.72,No
+5045,2023-08-09,east,Outlet_16,Mexican Green Wave,extra large,1,796.0,12.63,36,,NetBanking,695.47,51.5,No
+5709,11/04/2022,Central,Outlet_17,cheese burst,Medium,2,514.0,13.68,24,,Card,887.37,39.45,No
+5757,04/23/2023,EAST,Outlet_14,peri peri,Small,1,390.0,17.46,65,Male,netbanking,386.29,-40.05,No
+5907,2023-01-24, South,Outlet_2,Peri Peri,large,1,601.0,6.57,13,Female,upi,561.51,23.31,No
+5351,2021/08/11,WES,Outlet_18,FARMHOUSE,medium,1,407.0,7.0,46,Female,netbanking,378.51,121.95,No
+5604,15-12-21,North ,Outlet_1,MEAT LOVERS,Small,1,429.0,17.35,64,,upi,425.48,-57.06,Yes
+5693,12/24/2023, Central,Outlet_15,pepperoni,Large,1,569.0,0.0,55,Other,NetBanking,569.0,123.29,No
+5262,02/06/2021,North ,Outlet_15,CHEESE BURST,small,2,426.0,-10.0,11,Female,Card,937.2,-1.42,No
+5372,09/02/2021,East ,Outlet_19,MARGHERITA,medium,2,316.0,5.68,63,Other,cash,596.1,14.51,No
+5970,2 Apr 2022,South ,Outlet_9,Pepperoni,large,1,548.0,19.38,69,Male,wallet,441.8,112.19,No
+5657,16-4-23,CENTRAL,Outlet_15,veggie supreme,Medium,1,440.0,14.06,67,Other,card,378.14,-15.38,No
+5175,2021/09/28,SOU,Outlet_13,Paneer Tikka,medium,1,407.0,11.96,50,,cash,358.32,28.17,No
+5589,2022/02/19,West,Outlet_10,BBQ Chicken,extra large,1,655.0,4.89,27,Male,UPI,622.97,-52.71,No
+5737,07/10/2023,Central,Outlet_2,PERI PERI,Small,1,343.0,5.77,44,Female,cash,323.21,96.08,Yes
+5969,04/02/2021,EAS,Outlet_17,Paneer Tikka,large,1,556.0,15.58,58,Other,upi,469.38,53.15,No
+5723,10/22/2023, North,Outlet_11,HAWAIIAN,medium,1,444.0,22.23,66,Other,netbanking,345.3,97.23,
+5210,10/20/2021, Central,Outlet_17,FOUR CHEESE,Extra Large,1,884.0,1.0,24,,cash,875.16,-110.99,No
+5964,10/14/2021,east,Outlet_2,MEAT LOVERS,Extra Large,1,916.0,14.37,24,Other,card,784.37,142.19,No
+5061,26-01-2021, North,Outlet_19,pepperoni,Medium,2,450.0,16.02,31,Female,netbanking,377.91,127.81,No
+5480,10/02/2022,central,Outlet_4,Margherita,extra large,2,571.0,11.95,48,Male,wallet,1005.53,67.56,No
+5494,2023/03/13,East,Outlet_18,HAWAIIAN,extra large,1,795.0,4.59,58,Female,Card,758.51,409.74,No
+5959,2-8-21,CENTRAL,Outlet_18,Hawaiian,Medium,1,402.0,17.72,50,Other,Card,330.77,166.42,No
+5465,16 Feb 2022,EAS,Outlet_19,Hawaiian,small,3,353.0,27.31,59,Female,cash,769.79,91.18,No
+5421,7 Mar 2022,East ,Outlet_1,Meat Lovers,medium,1,485.0,6.44,67,Other,card,453.77,213.58,No
+5717,1 Feb 2022,central,Outlet_16,veggie supreme,extra large,1,791.0,0.0,55,,wallet,791.0,379.89,No
+5606,2022/12/24,EAS,Outlet_13,paneer tikka,extra large,1,784.0,2.14,69,Female,UPI,767.22,103.63,No
+5535,20 Feb 2023,EAST,Outlet_16,farmhouse,large,2,547.0,15.22,27,Male,Card,927.49,-125.47,No
+5315,2023/03/05,WEST,Outlet_1,Peri Peri,extra large,1,789.0,13.85,39,,netbanking,679.72,152.79,No
+5320,5-12-23,SOU,Outlet_6,cheese burst,Extra Large,1,911.0,10.45,19,Female,upi,815.8,325.37,No
+5909,18 Jun 2021,CENTRAL,Outlet_16,CHEESE BURST,Extra Large,2,873.0,0.0,64,Female,wallet,1746.0,579.69,Yes
+5257,2021/04/06,North ,Outlet_3,PANEER TIKKA,Small,1,358.0,14.5,49,Female,Card,306.09,15.27,No
+5519,2021-05-23,North ,Outlet_6,bbq chicken,Small,1,297.0,4.79,69,Female,NetBanking,282.77,23.53,
+5676,12/25/2022,East,Outlet_17,CHEESE BURST,large,2,665.0,10.52,58,Male,UPI,1190.08,-255.98,No
+9002,2022/13/01,East,Outlet_5,pepperoni,Medium,1,,5.0,,,upi,,,
+5111,11-9-22,West ,Outlet_4,Four Cheese,Large,1,,8.11,27,Other,NetBanking,344.62,-116.1,No
+5719,2 Jul 2023,WES,Outlet_14,Pepperoni,Extra Large,1,703.0,20.63,36,Male,upi,557.97,162.51,No
+5786,22-01-2022,south,Outlet_15,Margherita,Small,2,275.0,23.29,55,Male,NetBanking,421.91,37.37,No
+5356,05/27/2021,East ,Outlet_18,MEXICAN GREEN WAVE,Extra Large,1,754.0,0.0,50,,Card,754.0,275.06,No
+5768,26-8-23,East ,Outlet_1,meat lovers,Large,1,719.0,15.57,18,Other,cash,607.05,225.25,No
+5568,11/16/2022,Central,Outlet_16,bbq chicken,Medium,1,367.0,11.74,25,Female,Card,323.91,114.67,No
+5955,2023/08/22,CEN,Outlet_9,BBQ Chicken,Small,2,293.0,7.54,14,Other,netbanking,270.91,91.01,No
+5520,4 Jan 2021,SOU,Outlet_20,four cheese,medium,1,520.0,7.44,28,Other,Cash,481.31,-91.99,No
+5424,09-01-2021,CENTRAL,Outlet_19,CHEESE BURST,Medium,2,501.0,0.0,11,Other,card,1002.0,-269.2,No
+5550,13 May 2023, West,Outlet_14,paneer tikka,Medium,5,403.0,200.0,57,Male,upi,-2015.0,264.6,No
+5753,19-6-23, South,Outlet_6,paneer tikka,small,1,328.0,13.36,44,,UPI,284.18,0.71,No
+5443,8 Aug 2023,Central,Outlet_11,MARGHERITA,Extra Large,1,520.0,12.29,17,Female,NetBanking,456.09,112.6,No
+5238,2023/09/25,East ,Outlet_5,HAWAIIAN,Small,2,367.0,8.23,43,,Wallet,673.59,203.99,No
+5742,25-2-22,CENTRAL,Outlet_7,Mexican Green Wave,extra large,1,820.0,16.03,24,Male,card,688.55,176.43,No
+5138,2 Oct 2023,West ,Outlet_13,peri peri,large,1,608.0,21.53,47,Female,upi,477.1,-51.13,No
+5781,10/27/2021,EAST,Outlet_2,bbq chicken,small,1,263.0,12.59,31,Female,upi,229.89,34.59,No
+5755,2023/10/06,East ,Outlet_19,hawaiian,medium,5,442.0,7.02,35,Female,Card,2054.86,1079.61,No
+5290,24 Jul 2021, South,Outlet_13,HAWAIIAN,Small,1,369.0,0.0,25,,Cash,369.0,40.48,No
+5900,05/27/2021,East,Outlet_18,Peri Peri,Extra Large,1,811.0,3.25,64,Male,UPI,784.64,481.92,Yes
+5261,24-12-21,CENTRAL,Outlet_13,bbq chicken,small,1,290.0,9.6,54,Other,NetBanking,262.16,34.66,No
+5766,11/05/2022,North,Outlet_14,Four Cheese,Large,1,661.0,200.0,31,Female,Cash,-661.0,-118.53,No
+5300,11/07/2021,SOUTH,Outlet_3,meat lovers,small,1,421.0,16.64,35,Male,UPI,350.95,3.08,No
+5219,03/06/2022,North,Outlet_11,MEXICAN GREEN WAVE,Large,1,623.0,0.0,63,Other,upi,623.0,-35.29,No
+5788,2023/07/12,west,Outlet_9,Farmhouse,medium,3,429.0,2.01,66,Male,cash,1261.13,303.12,No
+5429,2023/10/03,East,Outlet_4,Farmhouse,small,2,318.0,9.6,53,Other,NetBanking,574.94,181.09,No
+5627,20 Jul 2022,south,Outlet_1,paneer tikka,small,1,360.0,17.71,30,,card,296.24,184.29,No
+5729,2023-05-11,central,Outlet_17,BBQ CHICKEN,Large,2,510.0,12.46,58,Other,netbanking,892.91,306.4,No
+5366,10-12-23,south,Outlet_18,BBQ CHICKEN,small,5,314.0,10.91,40,Other,UPI,2098.07,440.72,No
+5079,25 Sep 2021, Central,Outlet_17,BBQ Chicken,medium,2,346.0,4.29,54,Female,upi,794.78,439.64,No
+5030,2022-09-24,central,Outlet_20,bbq chicken,extra large,1,665.0,12.65,61,,UPI,580.88,217.89,
+5295,22-10-21,east,Outlet_15,Mexican Green Wave,Small,1,394.0,0.0,23,Male,UPI,394.0,161.05,Yes
+5478,2022/08/21,Central ,Outlet_6,Mexican Green Wave,small,1,339.0,13.52,40,,Card,351.8,28.0,Yes
+5549,17 Feb 2022,East ,Outlet_15,BBQ CHICKEN,large,1,539.0,17.97,69,Female,upi,442.14,35.92,No
+5656,2021/03/10,NOR,Outlet_8,pepperoni,large,1,571.0,0.0,10,,UPI,571.0,-106.91,No
+5924,2022-03-15, East,Outlet_4,PERI PERI,extra large,1,788.0,150.0,64,Other,card,-394.0,-197.96,No
+5166,04/10/2021,CEN,Outlet_13,farmhouse,medium,1,399.0,1.95,47,Male,UPI,391.22,-24.58,No
+5815,05/08/2022, Central,Outlet_8,MARGHERITA,extra large,3,551.0,8.54,11,,netbanking,1511.83,687.85,No
+5179,01/10/2021,SOUTH,Outlet_4,Cheese Burst,medium,1,508.0,12.49,15,Other,netbanking,444.55,211.19,No
+5483,17-12-2023,East ,Outlet_3,meat lovers,extra large,1,937.0,24.77,25,Female,UPI,704.91,-23.98,No
+5066,2021-09-02,EAS,Outlet_11,Meat Lovers,large,1,734.0,5.97,48,Other,cash,690.18,-89.81,No
+5142,09/06/2021,South,Outlet_15,Meat Lovers,small,1,442.0,10.56,49,,netbanking,395.32,40.69,No
+5495,2023/08/26,north,Outlet_5,pepperoni,Large,1,572.0,9.68,42,Other,cash,516.63,-54.84,
+5333,2023/11/13,West ,Outlet_19,HAWAIIAN,Large,1,588.0,7.85,17,Other,UPI,541.84,-22.38,No
+5843,27-04-2021,East,Outlet_1,VEGGIE SUPREME,Small,3,351.0,7.64,11,Other,netbanking,972.55,207.83,No
+5779,2022/04/05,CEN,Outlet_20,paneer tikka,small,1,373.0,6.09,26,Other,Wallet,350.28,-15.39,No
+5328,14 Jul 2022,Central,Outlet_3,HAWAIIAN,Extra Large,1,788.0,7.92,31,Other,card,725.59,-87.53,No
+5678,05/01/2023,West,Outlet_12,paneer tikka,small,3,328.0,0.32,53,Other,UPI,980.85,294.24,No
+5434,04/17/2023,South,Outlet_1,HAWAIIAN,small,1,,5.75,51,Male,cash,,,
+5746,19-1-22,Central,Outlet_19,Meat Lovers,Extra Large,2,884.0,3.2,68,,netbanking,1711.42,109.35,No
+5836,6-11-22,central,Outlet_15,hawaiian,small,1,363.0,21.3,64,Other,cash,285.68,46.87,No
+5222,17-6-23,East ,Outlet_2,paneer tikka,Extra Large,1,728.0,10.59,44,Male,Card,650.9,329.18,No
+5809,2021-05-16,West,Outlet_9,FARMHOUSE,large,1,532.0,3.38,16,,card,514.02,101.38,No
+5236,2021-03-09,East,Outlet_20,Pepperoni,small,3,327.0,4.4,20,Female,card,937.84,208.95,No
+5322,1-7-23,East,Outlet_11,PERI PERI,Small,1,400.0,8.74,68,Other,cash,365.04,34.54,No
+5193,11/20/2023,South ,Outlet_4,PANEER TIKKA,Medium,1,425.0,27.52,55,Other,Wallet,308.04,5.65,No
+5319,22 May 2023,west,Outlet_1,paneer tikka,extra large,1,782.0,2.08,49,Other,NetBanking,765.73,-51.59,No
+5050,11-1-22, West,Outlet_13,MARGHERITA,Large,1,404.0,12.09,16,,Card,355.16,64.29,No
+5741,22-03-2022,NORTH,Outlet_4,Meat Lovers,Large,2,742.0,14.52,57,Other,card,1268.52,-218.38,No
+5003,2021/12/15,CEN,Outlet_13,Mexican Green Wave,small,2,370.0,8.13,24,Other,Card,679.84,90.54,No
+5555,1 Dec 2023, North,Outlet_15,hawaiian,Large,1,589.0,13.44,59,,NetBanking,509.84,196.83,No
+5446,2023/07/21,Central,Outlet_20,margherita,small,2,261.0,0.0,18,,Wallet,522.0,17.65,No
+5920,28-04-2023, South,Outlet_17,four cheese,Medium,1,514.0,0.0,11,,wallet,514.0,-70.33,No
+5250,2022-08-18,SOU,Outlet_13,Four Cheese,extra large,4,892.0,17.05,-5,,netbanking,2959.66,528.02,No
+5760,5 Oct 2023,Central ,Outlet_15,peri peri,Medium,1,427.0,30.47,15,Female,Card,296.89,19.94,No
+5362,2021/07/23,North,Outlet_16,VEGGIE SUPREME,Small,1,320.0,0.0,17,Other,Cash,320.0,166.17,No
+5077,2021/11/21, South,Outlet_4,FOUR CHEESE,large,1,657.0,12.77,32,Other,card,573.1,25.21,No
+5963,20-3-22,EAS,Outlet_17,Peri Peri,extra large,2,822.0,6.21,40,Male,NetBanking,1850.29,327.7,No
+5034,3 Oct 2023,CENTRAL,Outlet_8,Paneer Tikka,small,2,323.0,9.42,44,,cash,585.15,222.77,Yes
+5205,28 Mar 2021,WEST,Outlet_6,peri peri,medium,2,454.0,5.2,21,Male,card,860.78,155.84,No
+5534,2022-09-23, East,Outlet_10,bbq chicken,large,3,504.0,8.62,18,Female,card,1381.67,492.89,No
+5685,1-8-23,west,Outlet_9,MEAT LOVERS,Large,1,741.0,13.5,65,Female,cash,640.97,268.01,No
+5747,8-12-22,west,Outlet_9,hawaiian,extra large,1,746.0,14.71,28,Female,card,636.26,327.03,No
+5078,21-07-2023,West ,Outlet_17,Mexican Green Wave,large,1,584.0,11.86,70,,Wallet,514.74,122.82,No
+5085,2022-02-17,central,Outlet_17,FOUR CHEESE,Small,1,416.0,25.17,57,Male,cash,311.29,40.75,No
+5383,12 Aug 2022,SOU,Outlet_10,Pepperoni,Small,2,306.0,2.61,45,,NetBanking,596.03,-53.84,No
+5083,2-3-21, West,Outlet_5,PANEER TIKKA,extra large,1,,3.43,70,,Card,318.0,118.51,Yes
+5381,27-12-2022,North ,Outlet_19,FARMHOUSE,Medium,1,437.0,11.49,17,Other,cash,386.79,11.19,No
+5430,11-6-23,west,Outlet_11,Pepperoni,Large,1,540.0,-10.0,36,,card,594.0,-26.46,No
+5878,09/15/2023,central,Outlet_1,PERI PERI,Large,1,603.0,15.91,35,Other,wallet,507.06,153.68,No
+5530,27-9-23,NORTH,Outlet_19,BBQ CHICKEN,Extra Large,2,640.0,0.19,33,,UPI,1277.57,-144.21,No
+5523,6-5-21,West ,Outlet_20,margherita,Medium,1,334.0,23.82,16,Female,Cash,254.44,68.0,Yes
+5831,12/18/2021,east,Outlet_13,BBQ CHICKEN,medium,1,361.0,3.23,14,Other,Cash,349.34,17.92,No
+5293,23 Jul 2021,central,Outlet_17,Hawaiian,large,1,566.0,16.64,52,Female,UPI,471.82,-123.72,No
+5006,2021-04-24,SOUTH,Outlet_19,VEGGIE SUPREME,large,1,585.0,6.29,17,Female,UPI,548.2,47.61,No
+5423,11/26/2023,EAS,Outlet_4,FOUR CHEESE,Medium,1,519.0,6.64,22,,wallet,484.54,59.91,No
+5957,20 Sep 2022,South ,Outlet_4,BBQ CHICKEN,large,3,489.0,5.5,40,Other,Wallet,1386.31,191.53,No
+5098,11-04-2022, South,Outlet_11,hawaiian,large,1,608.0,0.03,17,Other,upi,607.82,130.46,No
+5282,2023-11-01, Central,Outlet_17,BBQ Chicken,small,1,296.0,19.34,39,Male,Card,238.75,55.12,No
+5645,9 Jan 2021,SOUTH,Outlet_16,PEPPERONI,Small,5,332.0,2.63,11,,netbanking,1616.34,345.69,No
+5884,04/27/2022,West,Outlet_11,Meat Lovers,large,2,698.0,7.57,39,,Card,1290.32,438.69,No
+5267,03/16/2021,EAS,Outlet_12,CHEESE BURST,Extra Large,1,892.0,4.7,41,,wallet,850.08,250.03,No
+5440,9-9-23,East ,Outlet_20,CHEESE BURST,Large,1,657.0,11.62,51,Other,NetBanking,580.66,-71.51,No
+5592,08/22/2021,Central,Outlet_8,veggie supreme,Medium,2,422.0,17.85,69,Male,Cash,693.35,79.76,No
+5787,6 Jun 2022, Central,Outlet_12,FOUR CHEESE,Large,1,682.0,5.18,32,Other,UPI,646.67,177.03,No
+5663,05/06/2023,east,Outlet_1,CHEESE BURST,medium,1,464.0,12.14,57,,Wallet,407.67,99.61,No
+5892,2023-09-06,North ,Outlet_16,MEAT LOVERS,large,2,698.0,18.01,28,Male,Card,1144.58,-412.79,Yes
+5119,10 Mar 2022, East,Outlet_8,BBQ CHICKEN,small,1,282.0,4.79,32,,wallet,268.49,163.45,No
+5848,2022/07/26,central,Outlet_17,PEPPERONI,Extra Large,1,761.0,20.38,57,Female,upi,605.91,106.29,No
+5251,09/09/2021,East ,Outlet_20,peri peri,medium,1,474.0,21.84,64,,NetBanking,370.48,72.42,
+5358,19-03-2022, South,Outlet_15,Farmhouse,medium,1,404.0,18.39,13,Other,NetBanking,329.7,12.9,No
+5451,23-04-2022,Central ,Outlet_18,cheese burst,Small,2,400.0,6.08,35,Male,upi,751.36,292.15,No
+5010,23 Apr 2023,South ,Outlet_13,four cheese,extra large,2,883.0,2.74,47,Female,netbanking,1717.61,-175.99,No
+5197,2022/09/10,Central ,Outlet_5,Farmhouse,Extra Large,1,740.0,12.73,15,,cash,645.8,358.57,No
+5617,2022-02-11,west,Outlet_20,Paneer Tikka,Small,1,353.0,0.0,57,,NetBanking,353.0,187.06,No
+5082,3-7-21, Central,Outlet_12,Pepperoni,large,1,604.0,16.3,24,Male,cash,505.55,208.14,No
+5817,2021-12-06, West,Outlet_18,Veggie Supreme,small,1,348.0,6.14,27,Female,Wallet,326.63,-3.48,No
+5501,20-9-23,West,Outlet_5,cheese burst,Small,1,383.0,16.29,27,Male,cash,320.61,84.99,No
+5893,08/25/2023,South ,Outlet_8,PANEER TIKKA,Large,1,581.0,15.42,13,Male,cash,491.41,24.17,No
+5240,2023/09/04,East,Outlet_7,farmhouse,large,1,545.0,5.39,44,,netbanking,515.62,64.45,No
+5307,15-09-2022,North,Outlet_16,Veggie Supreme,Medium,1,411.0,16.96,47,,netbanking,341.29,153.97,No
+5212,20-05-2021,North ,Outlet_13,pepperoni,extra large,2,724.0,4.01,69,Male,upi,1389.94,681.39,No
+5732,18 Jan 2023,SOU,Outlet_4,Hawaiian,Small,4,,8.01,61,Other,Card,1261.86,632.78,No
+5378,2022/10/24, East,Outlet_7,four cheese,extra large,1,845.0,0.0,36,Other,Card,845.0,-64.15,No
+5591,2022-10-22, West,Outlet_17,PERI PERI,small,1,373.0,4.49,63,,Card,534.38,336.92,No
+5228,22-03-2022,North ,Outlet_10,Cheese Burst,Extra Large,1,901.0,2.48,19,Other,cash,878.66,67.86,No
+5933,15 Feb 2021,East ,Outlet_6,Cheese Burst,extra large,1,869.0,10.15,46,Female,Cash,780.8,251.14,No
+5536,2021-04-10,North ,Outlet_3,pepperoni,Small,2,339.0,21.81,25,Other,Card,530.13,241.75,No
+5812,2023/10/09,North ,Outlet_8,BBQ CHICKEN,Extra Large,1,631.0,0.0,10,Female,NetBanking,631.0,-13.85,No
+5178,2022/02/24,East,Outlet_15,BBQ CHICKEN,Large,2,533.0,4.25,63,,netbanking,1020.7,140.15,No
+5789,18 Nov 2023,NOR,Outlet_19,Farmhouse,Extra Large,2,732.0,16.13,42,Male,wallet,1227.86,-574.38,No
+5382,14-04-2023,North ,Outlet_6,pepperoni,small,1,332.0,5.11,54,Male,cash,315.03,-31.92,No
+5491,13 Jul 2023,CENTRAL,Outlet_6,Veggie Supreme,Medium,1,460.0,15.14,51,Other,netbanking,390.36,174.03,No
+5332,1 Mar 2023,north,Outlet_10,Paneer Tikka,extra large,1,726.0,24.79,61,Female,Card,546.02,221.31,No
+5935,2023-09-07,South ,Outlet_9,BBQ CHICKEN,Medium,1,389.0,12.3,61,,NetBanking,341.15,-63.41,No
+5008,2023-05-27,west,Outlet_7,Peri Peri,medium,2,489.0,0.0,48,Other,upi,1173.6,79.27,No
+5156,21-05-2022,East ,Outlet_13,Meat Lovers,Extra Large,1,889.0,10.94,69,Other,UPI,791.74,344.83,No
+5552,9-11-22,West ,Outlet_8,Margherita,large,1,403.0,16.8,62,Other,cash,335.3,36.97,No
+5868,04/12/2023,CENTRAL,Outlet_14,Peri Peri,Medium,2,440.0,150.0,21,,Card,-440.0,-176.85,No
+5597,2023-09-10,north,Outlet_18,Meat Lovers,extra large,3,913.0,14.76,22,Other,Cash,2334.72,818.75,No
+5916,14-10-23, West,Outlet_5,Farmhouse,medium,1,395.0,7.45,44,Other,wallet,548.36,11.4,No
+5793,2023-08-21,north,Outlet_16,BBQ Chicken,extra large,1,613.0,17.31,58,Male,card,506.89,9.82,No
+5818,2 Oct 2021,central,Outlet_6,paneer tikka,extra large,3,739.0,10.98,55,Male,Card,1973.57,996.53,No
+5352,16-12-2021,West ,Outlet_18,Meat Lovers,small,1,408.0,13.55,51,Female,netbanking,352.72,38.03,No
+5590,2022-12-17,NORTH,Outlet_6,Peri Peri,medium,1,463.0,23.14,60,Other,card,355.86,135.93,No
+5951,2022/02/05,Central ,Outlet_4,peri peri,Small,1,357.0,0.0,13,,Wallet,357.0,137.98,No
+5579,4-5-22,CEN,Outlet_5,MEXICAN GREEN WAVE,Large,1,619.0,22.91,28,Male,NetBanking,238.59,64.59,No
+5437,02/16/2021,CENTRAL,Outlet_2,peri peri,Extra Large,3,828.0,21.36,15,Male,Cash,1953.42,128.63,No
+5826,08/12/2023,South ,Outlet_12,Veggie Supreme,Medium,2,462.0,0.0,45,Male,UPI,924.0,336.19,No
+5595,16-09-2023,West,Outlet_16,FARMHOUSE,medium,1,387.0,18.18,65,Male,netbanking,316.64,211.5,No
+5722,25-06-2022, South,Outlet_1,Meat Lovers,Extra Large,1,944.0,10.46,44,Female,card,845.26,197.55,No
+5694,14-7-23,central,Outlet_2,PERI PERI,Small,2,397.0,9.88,42,Other,wallet,715.55,211.7,No
+5975,20 Nov 2021,West,Outlet_10,Farmhouse,small,1,324.0,15.1,34,Other,wallet,275.08,77.07,No
+5229,24-12-21,SOUTH,Outlet_12,Farmhouse,medium,2,429.0,1.53,16,Female,netbanking,844.87,141.49,No
+5371,6 Sep 2021,Central ,Outlet_10,Hawaiian,extra large,1,766.0,10.15,53,,wallet,688.25,171.73,No
+5837,2021/02/02, North,Outlet_4,CHEESE BURST,Large,1,661.0,13.62,25,,card,570.97,-18.54,No
+5213,2022/01/17,EAS,Outlet_14,PANEER TIKKA,Large,1,576.0,10.93,48,Other,wallet,513.04,213.35,No
+5080,10-10-22,south,Outlet_18,veggie supreme,small,4,376.0,13.79,46,,upi,1296.6,-75.54,No
+5149,2023-07-16,WEST,Outlet_9,BBQ CHICKEN,large,1,481.0,5.29,66,Other,upi,455.56,159.41,Yes
+5303,06/23/2023,east,Outlet_3,MEAT LOVERS,Extra Large,1,918.0,18.3,60,Male,Wallet,750.01,58.5,Yes
+5353,3-1-21,West ,Outlet_3,FARMHOUSE,large,1,566.0,19.27,52,Other,card,456.93,-16.55,No
+5343,25 Mar 2022,East,Outlet_6,four cheese,extra large,2,826.0,0.0,31,Male,NetBanking,1652.0,184.14,No
+5631,07/05/2023,Central ,Outlet_3,Cheese Burst,Medium,1,,23.42,68,Female,Card,268.03,18.57,No
+5360,06-06-2022, North,Outlet_17,bbq chicken,Extra Large,2,677.0,14.85,61,Male,card,1152.93,-87.72,No
+5940,24 Jun 2023,North,Outlet_3,meat lovers,Extra Large,1,945.0,10.74,10,,upi,843.51,178.8,No
+5539,2023-12-20,CEN,Outlet_11,CHEESE BURST,Large,1,698.0,5.6,55,,Wallet,658.91,30.1,No
+5134,2023-11-16,South,Outlet_15,Paneer Tikka,Large,1,604.0,0.0,31,,cash,604.0,-15.03,No
+5980,2022-08-23, North,Outlet_7,Mexican Green Wave,Large,1,627.0,1.42,150,,UPI,618.1,140.83,No
+5312,16 Nov 2022,north,Outlet_3,pepperoni,Large,2,540.0,12.24,28,,netbanking,947.81,-42.74,No
+5811,08-07-2022,west,Outlet_20,mexican green wave,medium,2,,13.49,20,,Wallet,557.57,201.16,No
+5853,18 Oct 2021,EAS,Outlet_10,FOUR CHEESE,small,1,407.0,22.92,36,Male,cash,313.72,36.25,No
+5804,11/02/2021,East,Outlet_9,MEXICAN GREEN WAVE,medium,1,478.0,4.12,40,,card,458.31,8.23,No
+5001,02/01/2023,south,Outlet_8,Farmhouse,Medium,1,439.0,13.97,23,Female,wallet,377.67,57.54,No
+5317,2021/10/16, North,Outlet_17,mexican green wave,extra large,1,820.0,25.06,57,Male,wallet,614.51,275.97,No
+5721,2022-02-11,EAS,Outlet_8,farmhouse,small,1,303.0,4.85,21,,Wallet,288.3,105.39,No
+5558,18-10-2023, East,Outlet_9,Meat Lovers,Extra Large,1,,9.7,65,Other,Card,269.05,87.58,No
+5452,8 Dec 2022,South,Outlet_16,bbq chicken,extra large,2,669.0,15.46,37,,Wallet,1131.15,621.39,Yes
+5543,08/22/2022,EAST,Outlet_15,HAWAIIAN,extra large,1,750.0,19.19,59,,Wallet,606.08,-101.79,No
+5500,2021-09-24,CENTRAL,Outlet_16,Paneer Tikka,medium,2,426.0,0.0,20,Other,card,852.0,282.93,No
+5666,24-05-2022,SOUTH,Outlet_17,BBQ Chicken,large,2,506.0,14.29,150,Female,NetBanking,867.39,0.27,
+5173,03/08/2021,central,Outlet_12,Pepperoni,medium,3,398.0,13.3,66,,wallet,1035.2,69.62,No
+5126,12/09/2023,North,Outlet_17,VEGGIE SUPREME,Large,1,580.0,6.2,26,Other,NetBanking,544.04,26.84,No
+5712,13-1-22, Central,Outlet_17,BBQ CHICKEN,extra large,1,627.0,0.0,55,Other,Wallet,627.0,-8.98,No
+5441,05/20/2022,SOU,Outlet_1,PERI PERI,Large,1,660.0,22.38,32,Female,Wallet,512.29,276.21,No
+5653,11 Jun 2022, Central,Outlet_4,Four Cheese,medium,1,509.0,7.53,49,,netbanking,470.67,97.29,No
+5919,4-10-23,NOR,Outlet_9,Mexican Green Wave,medium,1,453.0,4.33,70,Other,card,433.39,-53.2,No
+5091,2022/06/12,West,Outlet_5,PERI PERI,medium,1,455.0,31.76,41,,wallet,310.49,94.74,No
+5989,2023-03-25,north,Outlet_10,farmhouse,extra large,1,699.0,10.78,53,Female,NetBanking,623.65,150.68,No
+5182,9 Feb 2022,EAS,Outlet_13,Four Cheese,medium,2,497.0,9.85,26,Female,NetBanking,896.09,109.56,No
+5364,07-09-2021,South ,Outlet_6,HAWAIIAN,Small,4,324.0,5.64,40,Other,netbanking,1222.91,317.75,No
+5275,2022-09-17,CEN,Outlet_19,Peri Peri,Medium,1,465.0,18.05,25,Female,NetBanking,381.07,24.63,No
+5911,25-6-21,EAS,Outlet_5,Mexican Green Wave,Large,1,626.0,7.53,53,Other,Cash,578.86,17.12,No
+5070,10 Nov 2022,West,Outlet_16,PERI PERI,small,1,382.0,7.42,70,Female,UPI,353.66,121.2,No
+5292,18-12-23,east,Outlet_11,CHEESE BURST,Small,1,389.0,12.62,51,Female,Card,339.91,46.29,No
+5132,2021-07-15, East,Outlet_14,Paneer Tikka,Small,1,378.0,13.55,34,Male,NetBanking,326.78,109.45,No
+5301,26 Jan 2022, North,Outlet_16,Peri Peri,extra large,2,840.0,10.57,69,Male,wallet,1502.42,126.91,No
+5445,7-6-21,south,Outlet_12,four cheese,Large,3,693.0,8.58,69,Female,Wallet,1900.62,38.66,No
+5327,2022/02/02,West,Outlet_9,CHEESE BURST,Small,2,383.0,-10.0,27,Female,cash,842.6,432.93,No
+5145,16 Jul 2023,East ,Outlet_14,CHEESE BURST,extra large,1,847.0,27.06,24,Other,UPI,617.8,-130.0,No
+5577,28 Apr 2021, North,Outlet_12,MEAT LOVERS,Small,1,435.0,9.49,34,Male,NetBanking,393.72,96.76,No
+5594,14-03-2023,NORTH,Outlet_19,Pepperoni,Medium,1,397.0,0.0,44,Male,cash,397.0,-59.18,No
+5654,2021-05-24, South,Outlet_16,PEPPERONI,small,1,329.0,8.78,36,,NetBanking,300.11,96.52,Yes
+5136,2021-10-07,NOR,Outlet_18,Pepperoni,extra large,3,726.0,23.06,62,,upi,1675.75,-177.68,No
+5941,2023/02/05,WEST,Outlet_5,Peri Peri,Medium,1,435.0,1.78,36,,UPI,427.26,185.06,No
+5165,2021/03/23,north,Outlet_8,PERI PERI,large,2,643.0,3.45,42,Female,card,1241.63,743.09,No
+5029,8 Jul 2021, North,Outlet_7,Cheese Burst,large,1,721.0,3.29,34,Male,netbanking,697.28,-129.12,No
+5573,2021/10/09,EAS,Outlet_4,mexican green wave,Extra Large,2,805.0,19.5,66,Other,upi,1296.05,398.85,No
+5194,22 Jun 2023, North,Outlet_1,MEAT LOVERS,small,1,433.0,3.28,46,Female,cash,418.8,25.18,No
+5778,16 Jan 2023, West,Outlet_14,FOUR CHEESE,Medium,1,454.0,25.08,,Male,netbanking,340.14,166.21,No
+5651,2-3-23, North,Outlet_18,pepperoni,large,1,576.0,11.13,63,Other,Card,511.89,329.59,No
+5170,2022/12/13,East,Outlet_14,Four Cheese,medium,1,473.0,10.61,49,Female,NetBanking,422.81,18.84,No
+5881,15-2-22,South ,Outlet_13,Hawaiian,medium,3,442.0,16.46,35,Female,cash,1107.74,280.76,No
+5141,26 Jul 2022,NOR,Outlet_6,VEGGIE SUPREME,large,1,593.0,11.59,-5,Female,NetBanking,524.27,31.43,No
+5174,2021-10-08,East ,Outlet_1,peri peri,Extra Large,2,815.0,3.42,30,Male,Cash,1574.25,360.09,No
+5007,10/15/2022,EAS,Outlet_1,Meat Lovers,small,2,423.0,11.94,56,Other,wallet,744.99,-150.98,No
+5828,07/18/2021,CEN,Outlet_7,Margherita,Medium,1,284.0,18.64,39,Female,upi,231.06,20.92,No
+5502,08/06/2023,central,Outlet_15,FARMHOUSE,small,1,346.0,2.26,24,Other,Card,338.18,57.65,No
+5074,2023-10-15,WEST,Outlet_20,farmhouse,medium,1,378.0,16.25,47,Male,cash,316.57,-21.33,No
+5697,2021-10-22,EAST,Outlet_7,hawaiian,Large,1,579.0,9.78,48,Male,UPI,522.37,-3.48,No
+5546,02/14/2021,NOR,Outlet_7,hawaiian,large,1,629.0,6.26,32,,Cash,589.62,146.99,No
+5239,26 Dec 2022,West,Outlet_4,VEGGIE SUPREME,Large,1,597.0,16.06,44,,NetBanking,501.12,37.03,No
+5146,2022-09-17,North ,Outlet_9,HAWAIIAN,medium,1,400.0,8.79,37,Male,Wallet,364.84,108.6,No
+5807,04/22/2022, West,Outlet_18,FOUR CHEESE,medium,1,509.0,13.43,66,Other,Wallet,440.64,140.4,No
+5235,4 Aug 2022,East ,Outlet_16,pepperoni,Large,1,,10.28,20,Female,wallet,,,No
+5221,2023/08/18,North ,Outlet_12,CHEESE BURST,Extra Large,2,875.0,15.74,68,Male,card,1474.55,708.48,Yes
+5498,2023/03/18,WEST,Outlet_9,margherita,medium,1,345.0,6.43,60,,card,484.22,-95.83,No
+5982,01/15/2023,CENTRAL,Outlet_6,four cheese,small,3,378.0,0.0,58,Female,wallet,1134.0,139.25,No
+5133,19-04-2023,West ,Outlet_13,Hawaiian,Large,1,595.0,2.58,36,Other,upi,579.65,97.44,No
+5489,08/24/2021,CENTRAL,Outlet_6,Pepperoni,large,1,600.0,12.74,43,Other,NetBanking,523.56,142.07,No
+5431,1-9-21,West ,Outlet_4,hawaiian,large,2,606.0,13.06,10,Male,upi,1053.71,224.75,Yes
+5669,15-6-22,North,Outlet_5,Hawaiian,medium,1,448.0,9.8,45,,Wallet,404.1,138.83,No
+5186,2021-03-19,Central,Outlet_4,Paneer Tikka,Medium,2,458.0,15.52,51,,netbanking,773.84,77.2,No
+5042,1-3-21, West,Outlet_20,PANEER TIKKA,small,1,344.0,12.86,53,Female,NetBanking,299.76,142.56,No
+5706,02/08/2023,NOR,Outlet_10,peri peri,extra large,1,838.0,15.94,67,Female,cash,704.42,168.96,No
+5109,2021/07/27,CENTRAL,Outlet_13,MEAT LOVERS,Large,3,717.0,-10.0,31,Other,upi,2366.1,785.06,No
+5602,2023-02-03,South,Outlet_16,hawaiian,Extra Large,1,765.0,2.09,51,Female,wallet,749.01,-30.5,No
+5057,2022/12/28,EAST,Outlet_3,Peri Peri,Extra Large,2,822.0,9.79,60,,Cash,1483.05,284.81,No
+5426,11-7-21,CENTRAL,Outlet_4,Veggie Supreme,Extra Large,1,766.0,9.72,17,Other,Cash,691.54,156.87,No
+5463,01-01-2022,West ,Outlet_3,bbq chicken,Medium,2,351.0,0.0,62,Other,cash,702.0,231.13,No
+5586,2022/11/10,central,Outlet_16,margherita,Medium,1,299.0,1.23,23,Male,upi,442.98,-47.85,No
+5967,2021-05-18, West,Outlet_17,bbq chicken,Small,2,277.0,7.93,58,,netbanking,510.07,254.9,No
+5025,10-5-21,central,Outlet_19,farmhouse,extra large,1,709.0,12.75,57,Female,Card,618.6,-106.78,No
+5602,2023-02-03,South,Outlet_16,hawaiian,Extra Large,1,765.0,2.09,51,Female,wallet,749.01,-30.5,No
+5468,2023/07/21,south,Outlet_11,peri peri,Extra Large,1,778.0,12.23,53,Female,netbanking,682.85,205.93,No
+5542,2022-02-22,EAST,Outlet_9,BBQ Chicken,Small,2,291.0,16.17,16,Other,card,487.89,-190.13,No
+5632,14 Sep 2022,North,Outlet_10,mexican green wave,extra large,1,787.0,14.55,37,Male,Wallet,672.49,340.06,No
+5708,15-7-23,west,Outlet_9,HAWAIIAN,extra large,1,762.0,10.26,67,Female,NetBanking,683.82,20.05,No
+5943,19-5-21,East,Outlet_11,pepperoni,Small,1,358.0,13.42,43,Male,UPI,309.96,15.73,No
+5339,20-04-2021,East,Outlet_12,Farmhouse,extra large,2,727.0,5.65,54,Male,NetBanking,1371.85,51.35,No
+5052,24-4-22,North ,Outlet_4,CHEESE BURST,Large,2,655.0,6.63,33,,UPI,1223.15,136.33,No
+5384,18-2-23,East,Outlet_1,PEPPERONI,small,1,330.0,2.19,38,Other,card,322.77,126.12,No
+5526,07/13/2021,WEST,Outlet_10,bbq chicken,large,1,484.0,14.91,28,Other,Card,411.84,-10.11,No
+5937,2023-06-05,CEN,Outlet_17,veggie supreme,Large,1,580.0,10.87,56,Male,wallet,516.95,89.62,Yes
+5814,11-6-23, East,Outlet_20,MARGHERITA,extra large,1,567.0,10.17,53,,UPI,509.34,17.52,No
+5265,6 Nov 2022,north,Outlet_18,PERI PERI,Medium,1,458.0,10.79,23,Male,Wallet,408.58,134.94,No
+5548,2021-11-15,North ,Outlet_2,pepperoni,Extra Large,1,769.0,10.61,23,Female,netbanking,687.41,-52.65,No
+5908,4-9-22,WES,Outlet_16,FARMHOUSE,Large,2,,0.0,41,Female,Card,683.0,111.59,
+5696,2023/03/21,NOR,Outlet_19,peri peri,extra large,1,827.0,19.57,49,,Cash,798.19,118.37,No
+5396,04-10-2022,North,Outlet_3,MEXICAN GREEN WAVE,extra large,1,788.0,-10.0,70,,cash,866.8,29.97,No
+5528,2022/12/26,Central ,Outlet_5,Peri Peri,medium,1,477.0,13.19,14,Male,netbanking,414.08,128.13,No
+5469,2023/01/03,South,Outlet_2,Peri Peri,Extra Large,1,794.0,11.49,25,Male,card,702.77,63.75,No
+5019,25 Mar 2021,SOUTH,Outlet_6,CHEESE BURST,large,1,666.0,11.67,44,Male,cash,588.28,-124.68,No
+5829,24-10-22,SOUTH,Outlet_19,FOUR CHEESE,medium,1,491.0,20.25,47,Other,netbanking,391.57,75.8,No
+5507,1 Jun 2022,NOR,Outlet_13,hawaiian,Small,1,374.0,8.02,36,Male,upi,516.01,22.5,No
+5670,13-02-2021,North ,Outlet_19,paneer tikka,Large,2,605.0,21.12,67,Other,cash,954.45,278.28,No
+5454,11 Oct 2021,central,Outlet_20,PEPPERONI,large,1,590.0,14.73,31,,NetBanking,503.09,202.11,No
+5368,07/24/2021,Central,Outlet_19,mexican green wave,large,1,633.0,12.46,39,Male,Card,554.13,-89.79,No
+5084,26-11-22,NORTH,Outlet_4,MEAT LOVERS,Small,1,410.0,13.3,150,Female,netbanking,355.47,122.43,No
+5062,22-02-2021,North,Outlet_12,veggie supreme,medium,1,433.0,2.72,57,Male,upi,421.22,194.0,No
+5994,03/07/2023,east,Outlet_19,farmhouse,Medium,1,395.0,9.59,58,,UPI,428.54,-74.83,No
+5273,11-09-2022,EAS,Outlet_20,CHEESE BURST,medium,2,530.0,4.79,58,,cash,1009.23,191.23,No
+5286,15-06-2023,South,Outlet_5,HAWAIIAN,Extra Large,2,766.0,12.32,37,Female,netbanking,1343.26,799.35,No
+5361,12 May 2021,SOU,Outlet_5,CHEESE BURST,medium,1,,24.04,64,Female,Wallet,,,No
+5355,05/16/2021,NORTH,Outlet_19,MARGHERITA,Medium,1,314.0,7.52,58,Female,Wallet,290.39,71.21,No
+5479,2023-01-04,central,Outlet_1,MARGHERITA,small,3,280.0,1.83,53,Other,cash,824.63,265.26,No
+5279,18-8-21,East,Outlet_19,margherita,Extra Large,1,554.0,14.62,15,Male,card,473.01,65.93,No
+5013,2023-02-02,CENTRAL,Outlet_1,Mexican Green Wave,Extra Large,1,816.0,5.64,20,,Cash,769.98,155.68,No
+5183,2021-02-22,east,Outlet_19,bbq chicken,Small,2,326.0,12.58,40,Female,upi,569.98,8.3,No
+5369,2021/01/04,CENTRAL,Outlet_3,MEAT LOVERS,Small,4,428.0,0.0,49,Male,Card,1712.0,562.65,No
+5514,2022/08/09,east,Outlet_6,cheese burst,extra large,1,882.0,17.16,59,Female,cash,730.65,224.33,No
+5629,2021-12-11,NORTH,Outlet_2,PERI PERI,Extra Large,1,797.0,9.29,55,Female,NetBanking,722.96,503.14,No
+5224,11/13/2022,North,Outlet_13,Meat Lovers,Small,1,388.0,9.56,14,Other,wallet,350.91,90.12,No
+5585,2022-10-04,East ,Outlet_11,Veggie Supreme,Medium,2,465.0,8.62,19,,UPI,849.83,155.62,No
+5713,5-7-21,CENTRAL,Outlet_6,veggie supreme,large,2,621.0,19.6,14,Female,NetBanking,998.57,48.55,No
+5690,06/14/2021,EAS,Outlet_18,margherita,Extra Large,1,576.0,14.33,30,,netbanking,493.46,163.75,Yes
+5810,01/02/2022,North ,Outlet_18,HAWAIIAN,small,1,324.0,1.42,67,Male,Cash,319.4,-129.12,No
+5466,2023/08/03,west,Outlet_19,CHEESE BURST,large,1,681.0,11.75,-5,Male,NetBanking,600.98,138.15,No
+5596,2021-08-08,EAS,Outlet_11,Pepperoni,Extra Large,2,737.0,21.07,14,Female,NetBanking,1163.43,340.63,No
+5622,28-12-23, Central,Outlet_14,MEAT LOVERS,small,1,397.0,3.32,32,Male,Wallet,383.82,233.76,No
+5177,2023/04/21,CEN,Outlet_16,Peri Peri,medium,2,450.0,0.0,15,Other,upi,450.0,-45.67,No
+5679,09-07-2022,North,Outlet_7,meat lovers,Large,1,713.0,22.25,43,,upi,554.36,234.91,No
+5715,03/03/2022, Central,Outlet_9,BBQ Chicken,large,2,502.0,19.49,66,,NetBanking,808.32,261.73,
+5599,21-4-23,East ,Outlet_10,bbq chicken,Small,3,263.0,10.83,65,,Cash,703.55,117.83,No
+5457,2021/01/05,CENTRAL,Outlet_13,veggie supreme,medium,2,462.0,21.06,28,,cash,729.41,225.93,No
+5531,2021-05-15,CEN,Outlet_14,veggie supreme,Extra Large,2,743.0,11.8,19,,Cash,1310.65,510.39,No
+5394,23-3-22,North ,Outlet_16,BBQ Chicken,extra large,1,672.0,15.06,19,Male,cash,570.8,213.77,No
+5164,18-12-2021,North,Outlet_14,Pepperoni,Extra Large,1,701.0,200.0,56,Other,Card,-701.0,-209.62,No
+5249,2023-08-20,north,Outlet_16,four cheese,medium,1,485.0,1.35,27,,Wallet,478.45,247.56,No
+5886,15-2-22,Central,Outlet_18,PERI PERI,Small,1,355.0,1.46,47,Male,cash,349.82,129.45,No
+5901,20-7-23,NORTH,Outlet_2,Meat Lovers,large,1,689.0,8.59,62,Male,Cash,629.81,128.88,No
+5683,2023/05/18,WES,Outlet_7,Cheese Burst,Large,1,659.0,6.89,40,,Card,613.59,131.36,No
+5376,2021/12/28,West,Outlet_11,mexican green wave,Medium,1,477.0,12.05,51,Other,wallet,419.52,157.97,No
+5413,02/03/2023,East,Outlet_6,VEGGIE SUPREME,Small,1,320.0,20.05,13,Other,card,255.84,0.28,No
+5075,2021/06/27,WEST,Outlet_3,FARMHOUSE,large,1,596.0,0.0,68,Female,cash,596.0,169.5,No
+5114,22 Apr 2022,West,Outlet_16,Mexican Green Wave,extra large,2,812.0,0.0,45,,NetBanking,1624.0,139.04,No
+5582,05-10-2022,SOUTH,Outlet_5,BBQ CHICKEN,Extra Large,1,620.0,14.78,21,,card,528.36,169.2,No
+5571,9-3-22,West ,Outlet_17,CHEESE BURST,medium,1,530.0,9.54,42,,wallet,479.44,105.58,No
+5391,09/02/2021,CEN,Outlet_8,PANEER TIKKA,medium,5,,9.72,35,Other,UPI,1600.9,855.14,No
+5105,08/17/2023,NOR,Outlet_15,HAWAIIAN,medium,1,428.0,14.11,45,Other,Wallet,367.61,104.04,No
+5115,2023/04/19,east,Outlet_12,Cheese Burst,Small,3,372.0,18.71,21,Female,card,907.2,174.96,No
+5418,3-2-22, Central,Outlet_5,PANEER TIKKA,Extra Large,1,765.0,10.66,59,,NetBanking,683.45,268.66,
+5496,2023/01/08, East,Outlet_10,HAWAIIAN,extra large,1,789.0,11.02,32,Female,Card,702.05,30.74,Yes
+5458,14-03-2023, Central,Outlet_20,VEGGIE SUPREME,extra large,1,759.0,8.66,12,Female,UPI,693.27,145.13,No
+5410,2-12-21,CENTRAL,Outlet_4,Paneer Tikka,Medium,2,395.0,10.77,23,Other,UPI,704.92,61.71,No
+5093,23 Dec 2021,NOR,Outlet_12,FARMHOUSE,Extra Large,1,707.0,13.86,33,Other,upi,609.01,82.4,No
+5576,02/10/2021,EAST,Outlet_16,hawaiian,small,1,344.0,150.0,31,,Card,-172.0,-5.01,No
+5090,22-2-21,SOU,Outlet_17,Hawaiian,Small,1,368.0,21.63,33,Other,card,288.4,36.65,No
+5337,10-6-23,SOUTH,Outlet_11,MEXICAN GREEN WAVE,Small,1,330.0,8.85,41,Male,Card,300.8,19.63,No
+5618,2023/10/27, North,Outlet_1,four cheese,extra large,1,882.0,0.05,59,Male,Wallet,881.56,36.51,No
+5938,20-8-23, East,Outlet_17,FARMHOUSE,extra large,1,708.0,8.34,52,Other,UPI,648.95,100.13,No
+5950,04-09-2021,North,Outlet_14,FOUR CHEESE,Extra Large,1,877.0,0.0,37,Male,wallet,438.5,193.32,No
+5882,22-1-23,East,Outlet_10,BBQ CHICKEN,small,2,325.0,24.71,68,Male,Wallet,489.38,66.22,No
+5619,10/17/2023, South,Outlet_13,farmhouse,Large,3,531.0,4.25,23,,wallet,1525.3,547.56,No
+5623,2022-08-21,West ,Outlet_3,farmhouse,Small,1,358.0,0.5,66,Male,Cash,356.21,86.19,No
+5750,07-05-2023,East ,Outlet_4,HAWAIIAN,extra large,1,779.0,5.12,20,,wallet,739.12,113.23,Yes
+5095,2021/03/14,CENTRAL,Outlet_4,PERI PERI,Large,1,616.0,9.42,70,Other,Card,557.97,5.94,No
+5012,2022/07/15,West ,Outlet_4,Veggie Supreme,large,2,581.0,10.54,37,Female,NetBanking,1039.53,-109.1,No
+5397,7 Jan 2023,South ,Outlet_11,Veggie Supreme,Medium,1,448.0,8.02,59,,Card,206.04,34.02,No
+5544,7 Dec 2023,East ,Outlet_4,mexican green wave,extra large,1,773.0,7.1,46,Male,netbanking,718.12,-31.55,No
+5044,18-9-22,NORTH,Outlet_20,BBQ Chicken,large,2,,5.99,65,Male,NetBanking,705.07,256.0,No
+5043,04-07-2021,WEST,Outlet_5,mexican green wave,Large,1,603.0,5.85,68,Other,upi,567.72,10.39,No
+5330,2021/03/02,WES,Outlet_19,veggie supreme,extra large,1,805.0,0.0,61,,Cash,402.5,68.08,No
+5168,01/22/2023,CENTRAL,Outlet_6,Pepperoni,large,2,610.0,14.99,18,Male,Cash,1037.12,317.02,No
+5417,19 Dec 2023,West ,Outlet_18,bbq chicken,medium,1,347.0,12.14,30,Female,cash,304.87,109.12,No
+5771,3-5-23,Central,Outlet_7,mexican green wave,Large,1,589.0,4.27,150,,wallet,563.85,-109.0,No
+5427,2021/07/21,SOUTH,Outlet_18,Paneer Tikka,Extra Large,2,734.0,22.4,50,Female,UPI,1139.17,-22.41,No
+5946,09/12/2022,Central,Outlet_5,pepperoni,Small,1,309.0,4.64,40,Male,card,294.66,135.1,No
+5979,2021/07/01,NOR,Outlet_9,Paneer Tikka,Medium,1,454.0,0.0,50,,Cash,681.0,-166.85,No
+5698,22-04-2022,South ,Outlet_6,VEGGIE SUPREME,small,1,343.0,6.45,70,,Card,320.88,0.98,No
+5626,06/18/2023,North ,Outlet_8,Meat Lovers,small,1,437.0,10.35,39,Other,Card,391.77,59.0,No
+5258,10 Aug 2021, North,Outlet_5,PERI PERI,Large,1,641.0,6.1,65,Other,wallet,601.9,37.03,No
+5336,2023-02-20, East,Outlet_8,MEXICAN GREEN WAVE,Extra Large,1,778.0,9.81,68,,upi,701.68,154.1,Yes
+5016,7 Nov 2022, South,Outlet_8,cheese burst,large,1,690.0,5.19,10,,netbanking,654.19,360.1,No
+5852,10/20/2023,North ,Outlet_4,cheese burst,medium,1,475.0,6.87,24,Male,NetBanking,442.37,-1.98,No
+5325,04-03-2023,SOUTH,Outlet_10,MEXICAN GREEN WAVE,Medium,1,445.0,10.59,59,Other,NetBanking,397.87,-31.03,No
+5875,2021-09-27,West ,Outlet_19,HAWAIIAN,extra large,1,793.0,12.66,58,Other,wallet,692.61,151.06,No
+5223,27-07-2023,EAS,Outlet_14,Cheese Burst,Large,1,694.0,0.0,26,Male,netbanking,694.0,-111.51,No
+5180,6-11-22,NOR,Outlet_2,Paneer Tikka,medium,1,414.0,16.86,44,Other,NetBanking,344.2,50.95,No
+5447,6-2-23,Central,Outlet_17,four cheese,extra large,1,848.0,9.73,55,,upi,765.49,412.53,No
+5522,15 Apr 2022,WES,Outlet_14,four cheese,Large,2,649.0,9.81,21,Female,netbanking,1170.67,712.3,No
+5023,13-02-2023,SOUTH,Outlet_2,VEGGIE SUPREME,Small,1,384.0,0.0,22,Other,card,384.0,13.84,No
+5357,2022/12/21,North ,Outlet_9,MEAT LOVERS,Medium,1,526.0,8.52,50,,Card,481.18,36.31,Yes
+5680,10/28/2021, East,Outlet_12,MARGHERITA,extra large,1,587.0,8.29,52,Male,cash,538.34,257.4,No
+5877,2022-03-26,south,Outlet_11,four cheese,Small,1,377.0,14.1,55,Male,upi,323.84,41.48,No
+5341,2022-07-19, North,Outlet_19,Margherita,large,4,405.0,22.03,37,,upi,1263.11,-442.33,No
+5432,25 May 2023,CEN,Outlet_12,margherita,Medium,2,318.0,13.94,33,Male,NetBanking,547.34,130.18,No
+5934,7-10-23, Central,Outlet_6,Paneer Tikka,large,2,563.0,11.87,25,Female,cash,992.34,367.79,No
+5849,2-4-22,South,Outlet_1,hawaiian,Small,5,359.0,2.01,30,,Card,1758.92,139.03,No
+5204,09-02-2023,EAST,Outlet_10,cheese burst,extra large,1,866.0,19.9,53,Other,card,693.67,-96.34,No
+5644,2022-12-14,EAS,Outlet_7,MARGHERITA,medium,1,281.0,10.61,47,Other,cash,251.19,72.28,No
+5094,10 Jul 2021,WES,Outlet_16,PERI PERI,large,2,605.0,15.71,39,Other,UPI,1019.91,280.12,No
+5569,15-04-2023,East ,Outlet_4,peri peri,Extra Large,2,839.0,13.97,55,,UPI,1443.58,303.27,No
+5069,2023-06-25,NORTH,Outlet_2,Peri Peri,Large,2,602.0,22.4,41,,card,934.3,21.82,No
+5636,2022-12-16,Central ,Outlet_3,Paneer Tikka,large,2,602.0,-10.0,38,Male,Cash,1324.4,247.42,No
+5285,09-09-2021, South,Outlet_13,Farmhouse,Medium,2,436.0,13.16,24,,Wallet,757.24,72.55,No
+5820,05-08-2021,Central ,Outlet_20,four cheese,small,1,414.0,7.98,50,Male,Card,380.96,46.34,No
+5435,22-2-22,East ,Outlet_12,PERI PERI,Small,2,360.0,5.01,30,Male,card,683.93,47.13,No
+5154,2023-11-05,West,Outlet_1,Hawaiian,extra large,1,754.0,5.52,53,,Wallet,712.38,234.7,No
+5076,26 Jun 2022,NORTH,Outlet_17,Four Cheese,Small,1,412.0,12.38,33,Other,NetBanking,360.99,83.06,No
+5794,2023/08/01,East ,Outlet_3,PANEER TIKKA,small,1,318.0,21.94,16,,card,248.23,31.22,
+5447,6-2-23,Central,Outlet_17,four cheese,extra large,1,848.0,9.73,55,,upi,765.49,412.53,No
+5189,2021-02-10,East,Outlet_5,PERI PERI,Small,1,357.0,10.2,68,Other,Wallet,320.59,89.64,No
+5272,18-04-2023,South,Outlet_17,veggie supreme,Large,1,621.0,9.47,53,,card,562.19,-34.97,No
+5237,10/22/2021,NOR,Outlet_11,MEXICAN GREEN WAVE,Medium,1,459.0,200.0,48,Male,UPI,-459.0,-72.31,Yes
+5488,19 Aug 2022,CENTRAL,Outlet_7,MEAT LOVERS,small,2,428.0,9.34,55,Female,Wallet,776.05,313.1,No
+5118,23-11-2023,WES,Outlet_2,PEPPERONI,extra large,1,727.0,11.73,28,Female,netbanking,641.72,121.36,No
+5834,11/22/2022,West ,Outlet_19,Mexican Green Wave,Small,1,363.0,13.39,12,Male,Wallet,314.39,186.28,No
+5513,11-4-21,north,Outlet_17,VEGGIE SUPREME,Small,1,350.0,15.59,25,Other,Cash,295.44,-100.95,No
+5927,2022-06-21,WEST,Outlet_8,Cheese Burst,Extra Large,1,858.0,4.25,10,Other,cash,821.53,113.19,No
+5605,6-7-21,EAS,Outlet_2,meat lovers,Small,1,424.0,2.08,31,Other,netbanking,415.18,-153.41,No
+5127,08-10-2022,South ,Outlet_3,BBQ Chicken,Medium,1,378.0,24.12,-5,Male,upi,286.83,74.86,No
+5117,13-09-2022,EAST,Outlet_12,Peri Peri,small,1,346.0,15.44,69,Male,Wallet,292.58,9.93,Yes
+5474,1 Dec 2023,WEST,Outlet_5,cheese burst,extra large,3,862.0,13.02,63,Female,Cash,2249.3,1109.14,No
+5707,26 Jul 2021,north,Outlet_7,Four Cheese,Small,1,360.0,20.41,10,,upi,286.52,141.05,No
+5058,9-11-23,CENTRAL,Outlet_12,Paneer Tikka,Extra Large,1,759.0,29.71,62,,NetBanking,533.5,75.51,Yes
+5688,2023-11-06,East ,Outlet_20,BBQ CHICKEN,small,1,293.0,0.0,19,Other,cash,293.0,39.57,No
+5928,24 Mar 2022,North ,Outlet_10,meat lovers,small,2,447.0,2.1,55,,UPI,875.23,134.57,
+5370,10-4-22,East ,Outlet_17,cheese burst,medium,2,529.0,11.37,37,Male,card,937.71,134.28,No
+5269,8 Jun 2022,NORTH,Outlet_18,MARGHERITA,Extra Large,1,583.0,0.0,36,Other,Card,583.0,110.55,Yes
+5047,2022/08/23,North,Outlet_20,veggie supreme,Large,1,569.0,17.75,68,Male,upi,468.0,18.53,No
+5350,03/15/2023,NOR,Outlet_7,FOUR CHEESE,Small,1,400.0,15.7,44,Other,Card,337.2,44.49,No
+5196,07/26/2022,SOUTH,Outlet_19,paneer tikka,extra large,2,778.0,3.93,49,Male,upi,1494.85,314.04,No
+9003,Feb 30 2023,Central,Outlet_3,unknown_cat,Extra Large,3,5000.0,-20.0,200,Female,Cash,15000.0,5000.0,Yes
+5850,5-10-21,EAS,Outlet_18,peri peri,Medium,1,424.0,16.72,44,,NetBanking,176.55,51.08,No
+5705,2022-11-18,West ,Outlet_4,PANEER TIKKA,extra large,2,743.0,27.26,19,Female,Card,1080.92,63.62,No
+5751,19-07-2021,SOUTH,Outlet_19,Peri Peri,large,1,621.0,10.12,57,Female,upi,558.15,12.85,No
+5264,7-3-22,CENTRAL,Outlet_1,Meat Lovers,Extra Large,1,936.0,14.01,57,Male,wallet,804.87,-12.48,No
+5444,01-01-2022,South ,Outlet_6,bbq chicken,small,2,303.0,15.27,21,Other,Card,770.2,448.29,No
+5689,19-7-22,North,Outlet_13,Veggie Supreme,large,1,585.0,0.64,,Female,Wallet,581.26,-104.86,No
+5305,2023/02/01,West ,Outlet_20,Mexican Green Wave,medium,1,415.0,6.45,11,Other,Wallet,388.23,99.18,No
+5342,2022/04/03, West,Outlet_14,pepperoni,Large,1,570.0,18.73,29,Female,upi,463.24,198.83,Yes
+5612,26 Oct 2023,SOU,Outlet_7,MARGHERITA,Small,1,239.0,11.79,14,Female,netbanking,210.82,95.47,No
+5985,2023/07/22, Central,Outlet_16,hawaiian,Small,1,319.0,6.28,25,Male,NetBanking,298.97,47.48,Yes
+5150,24 Aug 2023,West ,Outlet_12,Cheese Burst,large,1,706.0,12.86,28,Other,wallet,615.21,25.48,No
+5125,05-07-2021,NORTH,Outlet_5,Margherita,Extra Large,1,567.0,0.4,68,,upi,847.1,95.81,Yes
+5801,26-08-2021,West ,Outlet_16,PANEER TIKKA,extra large,1,740.0,12.35,61,Male,UPI,648.61,-59.23,No
+5838,09/24/2023,CEN,Outlet_7,PANEER TIKKA,Small,1,358.0,13.43,64,Other,card,309.92,44.19,No
+5051,5-11-22,central,Outlet_9,peri peri,large,1,638.0,8.12,30,,wallet,293.1,-30.21,No
+5354,01/10/2022,South ,Outlet_15,FOUR CHEESE,Medium,1,506.0,14.93,20,,card,430.45,128.54,No
+5944,26 Sep 2022,East,Outlet_17,Farmhouse,medium,2,411.0,24.2,18,Male,netbanking,623.08,-36.59,
+5143,2021-11-23,West,Outlet_3,Farmhouse,medium,1,409.0,10.91,34,,netbanking,364.38,113.84,No
+5471,1-8-21,Central ,Outlet_3,meat lovers,Large,1,702.0,1.79,34,,Card,689.43,142.43,No
+5400,2021/05/15,CEN,Outlet_16,meat lovers,Large,4,718.0,14.88,13,Male,Cash,2444.65,713.74,No
+5639,2021/03/16,South ,Outlet_7,margherita,Medium,1,322.0,16.67,14,Other,wallet,268.32,-58.69,Yes
+5321,24-08-2023,South,Outlet_19,hawaiian,Small,1,326.0,0.0,40,Female,card,326.0,158.41,No
+5020,06/26/2022,South,Outlet_8,Paneer Tikka,medium,2,442.0,0.0,25,Female,UPI,884.0,-328.2,No
+5825,12-02-2022,South ,Outlet_17,Hawaiian,Small,5,330.0,19.19,42,Female,wallet,1333.37,270.21,No
+5860,21-5-22,South,Outlet_9,PANEER TIKKA,large,1,615.0,12.27,-5,,card,539.54,69.18,No
+5824,2021/04/05,South ,Outlet_12,Veggie Supreme,medium,1,449.0,3.99,28,Other,wallet,431.08,40.84,
+5408,6-4-21,North ,Outlet_14,MEAT LOVERS,small,1,386.0,10.23,53,Female,UPI,346.51,64.43,Yes
+5538,19-1-21,West,Outlet_2,paneer tikka,Large,1,613.0,13.95,24,Female,UPI,527.49,122.45,No
+5634,2022/03/26,North ,Outlet_18,Hawaiian,Extra Large,2,789.0,5.35,63,,wallet,1493.58,-34.28,No
+5039,10-10-2023,South ,Outlet_8,four cheese,Large,1,706.0,16.58,28,Female,upi,588.95,-90.89,No
+5176,2023-06-08,CENTRAL,Outlet_6,MARGHERITA,small,2,257.0,6.23,70,,netbanking,722.97,163.69,No
+5246,9-10-23,East,Outlet_19,PANEER TIKKA,Extra Large,2,776.0,2.36,40,Male,NetBanking,1515.37,-214.11,
+5844,2023/11/18,Central ,Outlet_8,MARGHERITA,medium,1,,20.54,25,,Cash,,,No
+5681,26 Feb 2023,South,Outlet_12,MEAT LOVERS,extra large,1,881.0,11.19,43,Female,Wallet,782.42,88.09,No
+5851,09-12-2021,SOUTH,Outlet_11,BBQ CHICKEN,Medium,4,376.0,8.09,11,Male,NetBanking,1382.33,147.4,No
+5874,03-02-2023,East ,Outlet_4,CHEESE BURST,medium,1,463.0,5.72,53,Male,wallet,436.52,70.67,No
+5155,13-12-23, South,Outlet_5,veggie supreme,small,1,347.0,14.88,59,Male,NetBanking,295.37,51.93,No
+5288,2023-10-09,west,Outlet_8,bbq chicken,Extra Large,1,655.0,19.61,64,,cash,526.55,51.8,No
+5616,2023/12/16, North,Outlet_2,VEGGIE SUPREME,Small,1,325.0,4.38,67,,cash,310.77,14.74,No
+5570,2022-07-15,South,Outlet_13,margherita,Medium,1,301.0,12.92,16,Female,upi,262.11,173.17,No
+5758,01/23/2022, West,Outlet_13,peri peri,medium,2,474.0,0.0,56,Other,wallet,948.0,-118.62,No
+5018,4 Feb 2021,EAS,Outlet_5,mexican green wave,small,1,367.0,16.58,41,Other,Cash,306.15,-19.65,No
+5128,02-09-2021, Central,Outlet_19,PANEER TIKKA,small,1,317.0,0.0,52,Male,UPI,317.0,115.25,No
+5323,15 Nov 2023,south,Outlet_19,margherita,medium,1,303.0,-10.0,10,,Card,333.3,-7.47,No
+5256,9 Oct 2022,East,Outlet_9,CHEESE BURST,medium,2,526.0,25.28,11,Female,Wallet,786.05,-78.38,No
+5671,11/25/2023, East,Outlet_18,HAWAIIAN,large,1,612.0,10.08,38,Female,UPI,550.31,-230.04,No
+5983,2-1-22,SOUTH,Outlet_10,four cheese,small,1,399.0,18.81,14,Male,UPI,323.95,185.19,No
+5191,28 Apr 2023,south,Outlet_7,mexican green wave,large,1,583.0,27.23,61,Male,Wallet,424.25,11.26,No
+5116,3 Nov 2022,Central ,Outlet_18,Farmhouse,medium,1,438.0,1.38,63,Male,Cash,431.96,15.96,No
+5630,2021/09/24,north,Outlet_1,PERI PERI,Medium,1,482.0,3.57,50,Female,Cash,464.79,236.03,No
+5607,02/08/2022, South,Outlet_19,PEPPERONI,Small,1,346.0,14.4,59,Male,Card,296.18,-4.05,No
+5181,08/05/2023,North,Outlet_14,Mexican Green Wave,small,2,385.0,9.85,28,Male,upi,694.15,-14.23,No
+5302,7 Oct 2023, South,Outlet_12,Cheese Burst,Large,1,655.0,13.83,20,,UPI,564.41,139.26,No
+5774,2023/03/11,north,Outlet_11,FOUR CHEESE,extra large,1,866.0,1.81,37,Other,card,850.33,468.38,No
+5912,2021-11-09, North,Outlet_3,PERI PERI,Large,1,613.0,12.55,48,Male,wallet,536.07,240.21,No
+5738,2022-07-07,north,Outlet_14,FARMHOUSE,Large,1,531.0,19.91,67,Female,cash,425.28,78.36,No
+5763,10-11-23,SOUTH,Outlet_12,veggie supreme,Small,1,348.0,19.67,41,Other,Cash,279.55,107.57,No
+5904,21-12-22,CEN,Outlet_2,Hawaiian,Medium,2,,11.56,26,Male,Wallet,,,No
+5518,15-3-21,EAS,Outlet_13,PEPPERONI,small,1,300.0,23.89,66,,wallet,228.33,50.14,No
+5273,11-09-2022,EAS,Outlet_20,CHEESE BURST,medium,2,530.0,4.79,58,,cash,1009.23,191.23,No
+5046,08/03/2021, South,Outlet_4,PEPPERONI,Small,1,369.0,14.11,49,,upi,316.93,63.2,No
+5925,2022-07-02, East,Outlet_14,CHEESE BURST,extra large,1,865.0,17.17,57,Other,wallet,716.48,90.49,No
+5158,03/09/2023,NORTH,Outlet_17,pepperoni,Large,1,590.0,8.38,51,Male,NetBanking,540.56,73.77,No
+5759,11/03/2022,Central ,Outlet_17,Meat Lovers,Small,2,393.0,20.1,46,Female,Card,628.01,-14.09,No
+5172,2022-01-26,SOU,Outlet_19,bbq chicken,Large,1,500.0,3.4,13,Female,netbanking,483.0,55.89,No
+5017,09/09/2021, Central,Outlet_3,veggie supreme,medium,1,456.0,9.89,61,Male,wallet,410.9,-12.96,No
+5512,21-11-2023,North ,Outlet_5,PEPPERONI,Small,1,324.0,10.48,15,Male,card,290.04,14.68,No
+5049,05/27/2023,WES,Outlet_10,MEAT LOVERS,Large,1,741.0,0.0,39,Other,Wallet,741.0,177.27,No
+5990,18-10-23, West,Outlet_9,Four Cheese,small,1,382.0,6.87,20,Female,Wallet,355.76,83.19,
+5856,2023-05-09,Central ,Outlet_4,BBQ CHICKEN,small,1,,13.23,57,Other,UPI,335.69,58.8,No
+5516,11 May 2023,East ,Outlet_7,HAWAIIAN,Large,1,585.0,20.54,58,Other,cash,464.84,102.04,No
+5974,2023-01-08,Central,Outlet_18,PEPPERONI,Extra Large,1,731.0,23.86,42,Other,cash,556.58,348.56,No
+5481,20 Nov 2022,Central ,Outlet_16,FARMHOUSE,large,1,526.0,0.0,11,Other,Cash,526.0,186.46,No
+5284,01/08/2021, South,Outlet_16,PEPPERONI,Large,1,585.0,6.1,42,Other,Cash,549.32,51.36,No
+5733,12 Feb 2023,CEN,Outlet_5,four cheese,Large,2,660.0,13.93,49,Male,wallet,1136.12,371.48,No
+5668,28-8-21,South,Outlet_18,Hawaiian,large,1,565.0,18.69,41,Other,Card,459.4,126.31,No
+5226,2023-11-12,Central ,Outlet_18,Peri Peri,Medium,1,470.0,9.29,57,Other,Wallet,426.34,-34.49,No
+5027,25-02-2021,NOR,Outlet_17,MEXICAN GREEN WAVE,Small,1,339.0,4.58,45,Other,upi,323.47,97.8,No
+5797,8-8-22,Central,Outlet_6,MARGHERITA,Small,1,248.0,15.89,24,,Card,208.59,25.81,No
+5438,2021/01/26,South ,Outlet_20,VEGGIE SUPREME,Medium,1,407.0,3.34,16,,Wallet,393.41,107.91,No
+5968,10-02-2021,CENTRAL,Outlet_4,veggie supreme,medium,1,420.0,14.49,16,Female,Wallet,359.14,43.42,Yes
+5365,2022-07-14,south,Outlet_14,Meat Lovers,medium,1,494.0,9.7,28,Male,Card,446.08,178.73,No
+5230,9 Dec 2023,NORTH,Outlet_3,Pepperoni,Small,2,351.0,17.64,26,,UPI,578.17,-9.91,No
+5038,07/24/2022,SOU,Outlet_15,mexican green wave,small,1,339.0,22.52,70,Female,Wallet,262.66,-90.34,No
+5984,2022-05-25,Central,Outlet_16,Mexican Green Wave,extra large,1,804.0,0.16,51,Female,upi,802.71,224.23,No
+5375,2023-11-11,South ,Outlet_12,VEGGIE SUPREME,Extra Large,1,745.0,18.23,13,Other,netbanking,609.19,167.23,No
+5470,06-07-2021,South ,Outlet_10,CHEESE BURST,Extra Large,1,905.0,11.55,20,,upi,800.47,315.97,No
+5986,2023-04-11, East,Outlet_5,mexican green wave,Extra Large,1,783.0,-10.0,55,,upi,861.3,610.55,No
+5866,01-12-2023,central,Outlet_14,peri peri,Medium,1,449.0,11.44,32,Other,upi,397.63,99.46,No
+5718,2023/07/02,West,Outlet_4,Paneer Tikka,Medium,4,420.0,7.42,36,,Cash,1555.34,201.94,No
+5740,22 Oct 2022,Central ,Outlet_10,pepperoni,small,1,301.0,11.93,67,Female,upi,265.09,-94.87,Yes
+5195,11/12/2022,Central ,Outlet_6,FOUR CHEESE,Large,1,698.0,0.0,58,Female,cash,698.0,52.24,No
+5870,20 Apr 2022,central,Outlet_1,margherita,large,1,468.0,15.38,60,Female,Cash,396.02,221.76,No
+5880,07/20/2023,WES,Outlet_6,PERI PERI,small,1,,5.71,18,Other,wallet,,,No
+5504,2023/11/18,East,Outlet_1,margherita,Small,2,288.0,22.03,70,Male,netbanking,449.11,159.65,No
+5988,21 Nov 2021,Central,Outlet_11,veggie supreme,Medium,1,458.0,13.74,44,,netbanking,395.07,156.9,No
+5846,28-02-2021,NORTH,Outlet_9,Four Cheese,Medium,2,493.0,20.54,39,Male,upi,783.48,122.53,No
+5580,2021/01/16,east,Outlet_12,Margherita,Small,1,264.0,8.05,59,Female,Card,242.75,90.5,No
+5987,06/06/2022,SOUTH,Outlet_12,cheese burst,small,1,432.0,0.0,14,,netbanking,432.0,99.68,No
+5163,02/15/2022, South,Outlet_3,FOUR CHEESE,extra large,1,851.0,8.96,25,,cash,774.75,154.48,No
+5716,28-10-2023,Central ,Outlet_16,VEGGIE SUPREME,large,1,581.0,17.97,27,Other,wallet,476.59,13.65,No
+5153,2021/01/23,Central ,Outlet_14,Farmhouse,extra large,1,731.0,15.04,33,Other,UPI,621.06,8.82,No
+5695,2023-02-19,Central,Outlet_4,HAWAIIAN,Large,2,572.0,10.96,22,Male,card,1018.62,-14.89,No
+5714,5-11-23, North,Outlet_9,farmhouse,Small,1,358.0,1.62,40,Female,upi,352.2,101.2,No
+5996,2021-05-01, South,Outlet_4,PEPPERONI,small,2,360.0,4.77,45,Female,card,685.66,41.73,No
+5112,11/04/2021,NOR,Outlet_13,FARMHOUSE,small,1,329.0,10.65,40,Female,upi,293.96,189.0,No
+5227,03/08/2021,South,Outlet_4,Four Cheese,Small,2,426.0,15.36,14,Other,Card,721.13,182.68,No
+5910,25 Aug 2021,North,Outlet_16,HAWAIIAN,large,1,576.0,10.66,70,,Wallet,514.6,-57.38,No
+5104,05-07-2023,north,Outlet_19,Meat Lovers,Extra Large,1,920.0,2.5,42,,Cash,897.0,253.86,No
+5422,21-9-21,West ,Outlet_15,Peri Peri,medium,1,472.0,22.64,12,,NetBanking,365.14,27.54,No
+5420,2022/02/20,North ,Outlet_12,paneer tikka,Small,1,323.0,28.39,41,Male,UPI,231.3,24.85,Yes
+5765,03/02/2023,east,Outlet_15,MEXICAN GREEN WAVE,medium,3,461.0,5.59,19,,card,1305.69,21.36,No
+5587,13-05-2021,CENTRAL,Outlet_8,HAWAIIAN,small,2,368.0,22.76,50,Male,UPI,568.49,6.03,No
+5845,05/06/2023,West ,Outlet_9,BBQ CHICKEN,Large,2,496.0,1.95,28,Other,wallet,972.66,396.82,No
+5673,2022/11/03,WES,Outlet_20,MARGHERITA,Extra Large,2,540.0,5.12,40,Female,cash,1024.7,146.13,Yes
+5120,25-3-22,south,Outlet_8,meat lovers,Large,2,687.0,15.07,18,,Wallet,1166.94,-262.59,No
+5054,19 May 2022,east,Outlet_9,MEXICAN GREEN WAVE,small,1,373.0,13.23,32,Other,NetBanking,485.48,270.53,Yes
+5152,06/09/2023,West ,Outlet_6,Veggie Supreme,large,1,597.0,12.46,23,,Card,522.61,179.03,No
+5404,28-11-2022,NORTH,Outlet_10,MEXICAN GREEN WAVE,Large,1,584.0,13.44,38,,upi,606.61,134.39,No
+5962,16-7-21,West ,Outlet_3,Four Cheese,Extra Large,1,836.0,3.52,52,Male,UPI,806.57,213.59,No
+5208,24-11-22,SOU,Outlet_13,Peri Peri,Small,1,352.0,8.86,20,Male,upi,320.81,65.46,No
+5659,13-06-2021,east,Outlet_5,paneer tikka,small,1,369.0,13.11,20,,wallet,320.62,217.57,No
+5859,2021/07/15,central,Outlet_2,MEXICAN GREEN WAVE,small,1,338.0,6.28,37,Male,upi,316.77,69.76,No
+5949,3-10-22,West,Outlet_12,four cheese,small,1,378.0,16.49,18,Other,upi,315.67,106.92,No
+5009,2022-04-02,NORTH,Outlet_3,MEAT LOVERS,Medium,4,548.0,1.9,45,Female,NetBanking,2150.35,522.21,No
+5823,26-10-2022,WEST,Outlet_10,PEPPERONI,Extra Large,1,729.0,35.54,55,,cash,469.91,112.66,No
+5037,8-2-21,East ,Outlet_18,veggie supreme,extra large,1,798.0,150.0,54,Female,NetBanking,-399.0,-68.96,No
+5453,10/28/2021,WES,Outlet_1,MEAT LOVERS,medium,1,533.0,14.67,54,Other,cash,454.81,49.18,Yes
+5652,4 Sep 2022,WEST,Outlet_6,PANEER TIKKA,Large,1,595.0,13.15,12,Other,Card,516.76,112.87,Yes
+5254,2022-06-12,CEN,Outlet_9,hawaiian,Small,1,356.0,8.48,46,Female,NetBanking,325.81,1.59,No
+5304,09/05/2022,CEN,Outlet_16,PERI PERI,small,2,350.0,7.84,43,Female,Wallet,645.12,-10.16,No
+5761,7 Jan 2023,NORTH,Outlet_13,farmhouse,Extra Large,1,707.0,11.48,40,Other,netbanking,625.84,305.67,No
+5572,13-11-21,South,Outlet_10,margherita,large,1,435.0,18.41,53,Male,Wallet,354.92,142.36,No
+5624,7-11-21, North,Outlet_16,Four Cheese,extra large,1,851.0,15.07,56,Female,Cash,722.75,189.91,No
+5724,08-01-2022,West ,Outlet_9,Pepperoni,extra large,1,728.0,14.31,23,Female,Cash,623.82,246.1,No
+5833,2023/07/28,NORTH,Outlet_3,Margherita,Large,1,463.0,6.77,54,Female,Cash,215.83,-2.38,No
+5263,2021/04/03,East ,Outlet_7,peri peri,large,1,659.0,5.39,31,Male,UPI,623.48,206.42,No
+5611,06/20/2021,east,Outlet_12,PANEER TIKKA,small,1,328.0,9.84,47,Male,Card,295.72,85.91,No
+5298,3 Aug 2023, West,Outlet_20,paneer tikka,large,1,594.0,11.45,69,Female,netbanking,525.99,120.79,No
+5415,2021-05-03, South,Outlet_13,Farmhouse,small,1,357.0,21.58,20,Male,Cash,279.96,61.4,No
+5151,2022/11/25,North ,Outlet_15,Pepperoni,Medium,3,400.0,200.0,54,Female,NetBanking,-1200.0,-431.9,No
+5803,27 Apr 2022,CEN,Outlet_5,PANEER TIKKA,large,1,574.0,0.0,14,,netbanking,287.0,118.52,No
+5641,10/21/2023,West,Outlet_19,mexican green wave,extra large,1,754.0,0.32,61,Female,UPI,751.59,386.7,No
+5905,11 Jun 2021,CEN,Outlet_6,margherita,medium,2,331.0,4.06,10,Female,UPI,635.12,-53.35,No
+5551,2022-04-08,East,Outlet_4,margherita,extra large,3,564.0,6.58,62,,Cash,1580.67,758.96,No
+5992,2021/03/01, West,Outlet_17,MARGHERITA,extra large,1,534.0,7.04,48,,card,496.41,126.79,No
+5489,08/24/2021,CENTRAL,Outlet_6,Pepperoni,large,1,600.0,12.74,43,Other,NetBanking,523.56,142.07,No
+5711,09/02/2023,EAS,Outlet_8,PERI PERI,Large,1,608.0,7.08,24,Female,wallet,564.95,122.56,No
+5148,05/10/2023,Central ,Outlet_17,Paneer Tikka,Large,4,606.0,8.34,18,Female,Wallet,2221.84,180.86,No
+5147,15-02-2022,South,Outlet_19,hawaiian,large,1,578.0,12.25,46,Other,wallet,507.19,28.13,No
+5735,03-09-2023,SOU,Outlet_5,veggie supreme,extra large,1,787.0,11.45,40,Male,wallet,696.89,-55.31,No
+5948,11-06-2021,CENTRAL,Outlet_1,bbq chicken,small,1,267.0,12.08,35,,netbanking,234.75,35.95,No
+5754,2022/12/28,West ,Outlet_5,CHEESE BURST,Medium,2,477.0,6.5,59,Male,netbanking,891.99,289.43,No
+5660,4-12-23,central,Outlet_1,Hawaiian,medium,1,459.0,9.95,52,,card,413.33,143.71,No
+5349,05/08/2021,South ,Outlet_2,Peri Peri,medium,1,441.0,13.91,21,Female,UPI,379.66,-24.46,
+5464,14-07-2023,South,Outlet_4,hawaiian,medium,1,446.0,-5.0,14,Other,netbanking,468.3,144.75,No
+5326,07/11/2022,CENTRAL,Outlet_9,Four Cheese,extra large,1,851.0,0.0,19,,Wallet,851.0,96.03,No
+5187,20 Nov 2021,East,Outlet_2,PEPPERONI,medium,1,386.0,11.79,11,Other,NetBanking,340.49,62.15,No
+5124,11-11-23,WES,Outlet_16,MEXICAN GREEN WAVE,Large,2,627.0,14.04,68,Male,wallet,538.97,190.34,No
+5869,14 Apr 2022,CENTRAL,Outlet_6,mexican green wave,medium,2,430.0,13.28,23,,card,745.79,98.26,No
+5609,5 Apr 2022,NOR,Outlet_5,Veggie Supreme,Extra Large,1,740.0,5.19,30,Male,wallet,701.59,171.16,No
+5144,23-09-2023,EAS,Outlet_6,MEAT LOVERS,small,1,420.0,22.69,70,Male,upi,324.7,-21.94,No
+5977,01-10-2023,south,Outlet_12,cheese burst,large,2,668.0,3.7,54,Other,Cash,1286.57,71.83,No
+5198,09-08-2021,West,Outlet_6,MEAT LOVERS,Medium,1,535.0,17.6,34,Male,Cash,440.84,28.49,No
+5610,05/01/2022,EAS,Outlet_2,veggie supreme,medium,1,464.0,0.0,30,Other,card,464.0,124.4,No
+5280,01-11-2023,SOU,Outlet_20,CHEESE BURST,Large,1,681.0,12.97,64,Male,Card,592.67,35.09,No
+5294,10-5-22,South ,Outlet_6,Meat Lovers,Large,3,680.0,11.88,64,,wallet,1797.65,600.73,No
+5401,11/24/2022,SOU,Outlet_9,Mexican Green Wave,Small,1,383.0,18.65,15,,NetBanking,311.57,108.05,No
+5123,16-12-2021,SOU,Outlet_11,BBQ CHICKEN,Small,1,288.0,200.0,22,Other,Wallet,-288.0,-45.23,No
+5184,2021-09-19,West ,Outlet_20,Peri Peri,Medium,3,477.0,14.15,61,Female,UPI,614.26,298.87,No
+5203,12-4-23,South ,Outlet_6,BBQ Chicken,extra large,2,671.0,-10.0,63,,UPI,1476.2,231.9,No
+5439,2022-07-15,west,Outlet_4,peri peri,Small,1,374.0,5.58,,Male,netbanking,353.13,108.26,No
+5247,8-12-23,SOU,Outlet_17,HAWAIIAN,Small,2,345.0,11.63,62,Other,Card,609.75,17.52,No
+5416,2022/12/14,WES,Outlet_2,four cheese,small,1,401.0,18.25,38,Other,netbanking,327.82,-38.39,
+5791,21-4-21, North,Outlet_7,Margherita,Medium,1,289.0,2.98,29,Female,wallet,280.39,4.1,No
+5867,10/01/2023,South,Outlet_6,Hawaiian,Extra Large,2,749.0,13.91,39,Male,upi,1289.63,395.84,No
+5922,09/27/2021,West,Outlet_8,mexican green wave,Small,1,370.0,0.0,39,Male,cash,370.0,132.83,No
+5973,2023-01-04, North,Outlet_20,Four Cheese,Small,2,417.0,0.45,66,Male,cash,830.25,173.18,No
+5903,9-5-23,EAST,Outlet_15,paneer tikka,large,1,611.0,23.56,36,Female,netbanking,467.05,-188.52,No
+5130,04/27/2022,west,Outlet_20,PEPPERONI,medium,1,414.0,0.0,45,,card,414.0,34.43,No
+5638,2021-10-23,west,Outlet_9,PANEER TIKKA,extra large,1,760.0,0.0,18,Female,wallet,760.0,187.09,No
+5403,20-12-23,South ,Outlet_20,four cheese,large,2,649.0,-10.0,54,Female,Cash,1427.8,-217.3,No
+5799,13-08-2022,CEN,Outlet_5,Meat Lovers,Small,1,403.0,0.0,33,Other,upi,403.0,29.9,No
+5785,3 Jul 2021,East,Outlet_1,BBQ Chicken,extra large,1,669.0,9.78,12,Male,NetBanking,603.57,322.58,No
+5736,2023-10-23,East,Outlet_18,margherita,small,1,277.0,13.2,35,,card,240.44,-21.5,No
+5929,15-7-21,WES,Outlet_10,BBQ CHICKEN,Large,2,486.0,10.61,20,Other,NetBanking,868.87,117.32,No
+5220,17-06-2023, East,Outlet_3,FARMHOUSE,Large,1,594.0,0.0,52,Other,cash,594.0,74.91,No
+5642,17-3-21,West ,Outlet_16,farmhouse,small,1,307.0,13.35,55,,cash,266.02,10.37,No
+5931,6 Apr 2022,EAS,Outlet_15,hawaiian,Small,1,372.0,13.54,21,Female,cash,321.63,-12.25,No
+5847,06-06-2021,EAS,Outlet_9,Pepperoni,Medium,5,400.0,0.0,44,Female,upi,2000.0,116.87,No
+5926,2022-06-26,South ,Outlet_6,FARMHOUSE,Large,1,541.0,2.87,31,Male,UPI,525.47,-19.96,No
+5936,20 Dec 2023,North ,Outlet_6,CHEESE BURST,extra large,1,866.0,12.89,52,,wallet,754.37,-36.77,No
+5625,2 Jul 2023,SOUTH,Outlet_20,MARGHERITA,Extra Large,1,581.0,8.52,63,Female,NetBanking,531.5,81.87,No
+5854,2023/01/04,East ,Outlet_12,PEPPERONI,Medium,1,411.0,19.74,46,Male,Cash,329.87,159.74,No
+5775,2023-05-11,north,Outlet_17,Veggie Supreme,Large,1,576.0,19.77,55,Female,Card,462.12,136.98,No
+5387,05-12-2022,West ,Outlet_19,farmhouse,small,1,345.0,3.13,63,Female,Cash,334.2,106.96,No
+5991,2023/11/18,East,Outlet_6,pepperoni,Large,1,605.0,7.25,23,Female,UPI,561.14,170.76,Yes
+5510,04-02-2021, North,Outlet_12,FARMHOUSE,Small,2,322.0,5.43,48,Male,card,609.03,179.37,No
+5268,12 Jun 2021,EAST,Outlet_9,FOUR CHEESE,Large,1,657.0,3.89,39,Male,wallet,631.44,-114.28,Yes
+5835,02/09/2022,west,Outlet_17,Cheese Burst,small,1,423.0,1.46,54,Male,upi,416.82,77.05,Yes
+5442,16 Dec 2021,EAST,Outlet_20,peri peri,medium,1,473.0,5.1,68,Male,upi,448.88,-57.83,No
+5497,28-05-2021,west,Outlet_18,pepperoni,medium,1,434.0,16.73,67,Female,card,361.39,17.88,No
+5113,25 Sep 2023,CENTRAL,Outlet_7,veggie supreme,Medium,1,467.0,0.0,13,Female,netbanking,467.0,148.16,No
+5692,27-07-2023,West,Outlet_10,margherita,Medium,1,321.0,5.63,43,Other,Cash,302.93,78.27,No
+5233,2023-06-04,WEST,Outlet_9,cheese burst,Large,1,700.0,1.72,43,Other,card,687.96,47.66,No
+5885,21-02-2023,East ,Outlet_7,Farmhouse,large,1,554.0,0.0,14,Male,netbanking,554.0,-17.03,No
+5608,15-8-21,North,Outlet_15,BBQ Chicken,medium,1,357.0,10.84,67,Other,Card,318.3,-27.63,No
+5672,22-3-23,West,Outlet_14,BBQ CHICKEN,large,1,473.0,1.48,15,,Cash,466.0,55.43,No
+5374,2021-08-22, East,Outlet_14,mexican green wave,Small,2,326.0,13.27,46,Male,upi,565.48,-90.77,No
+6000,08/16/2021, West,Outlet_3,Farmhouse,extra large,1,705.0,9.56,63,Female,NetBanking,637.6,151.18,No
+5858,12/21/2021, South,Outlet_14,MARGHERITA,small,1,245.0,0.57,22,Female,upi,243.6,101.71,Yes
+5234,2022-08-26,North,Outlet_17,Farmhouse,extra large,1,691.0,0.42,20,Other,netbanking,688.1,394.24,No
+5800,18-02-2022,South,Outlet_5,meat lovers,Large,2,,16.35,17,Other,netbanking,573.55,-40.64,No
+5677,2021/08/07, South,Outlet_3,MEXICAN GREEN WAVE,extra large,2,787.0,2.49,38,Other,netbanking,1534.81,232.04,No
+5318,25-9-22,EAST,Outlet_17,PANEER TIKKA,medium,1,427.0,22.75,57,Other,netbanking,329.86,25.65,No
+5649,2021/06/19,Central,Outlet_6,Margherita,Extra Large,1,578.0,14.87,63,Female,UPI,492.05,-18.93,No
+5411,28-12-2022,WEST,Outlet_12,peri peri,Large,1,621.0,6.52,25,,cash,580.51,68.6,No
+5914,10-09-2022,South ,Outlet_20,peri peri,Medium,1,456.0,8.72,61,Male,upi,416.24,130.81,No
+5710,2022-05-15,NORTH,Outlet_17,Four Cheese,large,2,703.0,26.11,11,Female,cash,1038.89,215.37,No
+5359,2023-03-25,Central,Outlet_6,HAWAIIAN,medium,2,433.0,0.0,44,Other,UPI,1299.0,-170.59,No
+5259,20 Aug 2021,WES,Outlet_19,VEGGIE SUPREME,small,2,377.0,3.09,33,,NetBanking,730.7,-195.96,No
+5745,18-05-2023,EAS,Outlet_11,Veggie Supreme,Medium,1,452.0,-5.0,30,Other,Cash,474.6,65.59,No
+5628,16-05-2021, South,Outlet_2,meat lovers,extra large,1,901.0,5.54,49,Other,UPI,851.08,-310.11,No
+5633,17-9-23,North,Outlet_16,PEPPERONI,medium,2,393.0,6.97,59,Female,upi,731.22,101.85,No
+5283,2023/06/28,South ,Outlet_13,bbq chicken,large,1,482.0,12.7,15,Female,Wallet,420.79,41.08,No
+5377,2021-07-13, East,Outlet_15,FOUR CHEESE,Large,2,704.0,23.32,62,,NetBanking,1079.65,413.37,No
+5385,08/24/2022, West,Outlet_14,Paneer Tikka,Large,2,618.0,2.4,45,Other,upi,1206.34,852.25,No
+5225,25-5-21,East,Outlet_1,PANEER TIKKA,Large,1,571.0,9.74,28,Female,NetBanking,515.38,-120.34,No
+5972,9-7-23,west,Outlet_18,veggie supreme,large,2,638.0,0.0,29,Male,cash,1276.0,-57.87,No
+5830,2022-08-09,South ,Outlet_16,PEPPERONI,Small,3,338.0,16.82,45,Female,Wallet,843.45,233.59,No
+5473,03/07/2023,Central,Outlet_12,FARMHOUSE,extra large,1,729.0,0.0,57,Female,Wallet,729.0,49.73,No
+5348,03-04-2022,CENTRAL,Outlet_17,peri peri,large,1,637.0,0.97,45,,upi,630.82,47.37,No
+5506,2022/05/09,WES,Outlet_19,PEPPERONI,Extra Large,2,765.0,11.67,49,,Cash,1351.45,-308.6,No
+5640,2021-05-10,WES,Outlet_10,four cheese,large,3,707.0,12.99,16,Female,NetBanking,1845.48,785.31,No
+5145,16 Jul 2023,East ,Outlet_14,CHEESE BURST,extra large,1,847.0,27.06,24,Other,UPI,617.8,-130.0,No
+5798,1-10-23,SOU,Outlet_14,Pepperoni,medium,1,393.0,10.54,54,,Card,351.58,99.56,No
+5945,13 Feb 2022,WES,Outlet_1,pepperoni,medium,1,443.0,17.35,39,Male,UPI,366.14,139.18,No
+5921,20-1-22,Central,Outlet_10,cheese burst,Extra Large,1,883.0,12.14,42,Male,Card,775.8,218.58,No
+5620,05/06/2022,SOUTH,Outlet_16,CHEESE BURST,Extra Large,2,880.0,7.64,16,Female,NetBanking,1625.54,698.25,No
+5871,16 Jul 2021,West,Outlet_5,Veggie Supreme,Large,1,597.0,8.94,64,Male,Wallet,543.63,-8.1,No
+5960,12 Nov 2021,Central,Outlet_20,FARMHOUSE,extra large,2,696.0,0.13,63,Other,wallet,695.1,42.75,No
+5646,2023/09/26,SOU,Outlet_1,Peri Peri,Large,2,612.0,0.0,38,Male,cash,1224.0,193.09,
+5862,2023-09-28,central,Outlet_17,Four Cheese,extra large,4,826.0,200.0,10,,Wallet,-3304.0,-1170.47,No
+5557,3 Apr 2022,east,Outlet_13,farmhouse,extra large,2,705.0,8.43,50,Male,Card,1291.14,213.92,No
+5976,2022/07/09,CENTRAL,Outlet_10,farmhouse,large,2,588.0,0.0,46,,NetBanking,1176.0,84.04,No
+5578,6 May 2022,SOU,Outlet_11,PEPPERONI,large,3,575.0,12.57,31,Male,card,1508.17,398.74,No
+5796,2022/09/21,SOUTH,Outlet_19,Meat Lovers,extra large,1,937.0,0.0,31,,Card,937.0,334.33,No
+5086,25 Oct 2023,Central,Outlet_11,Farmhouse,Small,1,335.0,3.97,39,,UPI,321.7,0.67,No
+5243,2021-12-13,WEST,Outlet_17,paneer tikka,Small,3,330.0,8.01,52,Other,Wallet,1366.05,403.41,No
+5699,2023/12/07,EAST,Outlet_15,PEPPERONI,Extra Large,1,748.0,8.62,42,Male,UPI,683.52,357.03,No
+5160,06/05/2021,WES,Outlet_4,Pepperoni,medium,2,414.0,16.51,50,Male,upi,691.3,304.93,No
+5525,10-3-22, North,Outlet_8,Veggie Supreme,small,1,,10.96,16,,UPI,,,No
+5036,09-02-2021,Central,Outlet_15,MARGHERITA,medium,1,321.0,12.89,31,Other,netbanking,279.62,136.34,Yes
+5541,12/25/2021,East ,Outlet_9,CHEESE BURST,Large,3,714.0,14.35,64,Female,upi,1834.62,194.24,No
+5171,13-5-21,South,Outlet_17,veggie supreme,Small,5,361.0,17.8,46,Other,card,1483.71,-447.0,Yes
+5655,10 Oct 2023, East,Outlet_7,Farmhouse,Large,1,532.0,17.65,61,Other,upi,438.1,9.99,No
+5906,08-02-2022,CENTRAL,Outlet_17,farmhouse,Large,1,595.0,5.11,23,,Card,564.6,97.45,No
+5873,25-12-21,NOR,Outlet_9,peri peri,Small,1,333.0,0.0,65,Male,Card,333.0,116.38,No
+5917,06/02/2021, Central,Outlet_1,four cheese,large,1,680.0,18.61,17,Female,NetBanking,553.45,101.98,No
+5961,18-05-2022,Central,Outlet_4,CHEESE BURST,medium,1,489.0,9.79,38,Male,wallet,441.13,104.12,No
+5734,4 Jun 2022,NOR,Outlet_19,PERI PERI,Large,2,659.0,15.3,31,,wallet,1116.35,462.94,No
+5096,2021-11-10,NORTH,Outlet_17,Hawaiian,Large,1,604.0,0.0,11,Male,Cash,604.0,54.78,No
+5564,11-10-21,south,Outlet_19,Pepperoni,small,1,300.0,8.88,35,Male,wallet,273.36,109.79,No
+5241,18-7-21,NOR,Outlet_12,FOUR CHEESE,extra large,1,865.0,0.0,18,Male,Wallet,865.0,-106.43,No
+5743,20-7-21,WES,Outlet_5,CHEESE BURST,Small,1,428.0,20.32,30,Male,netbanking,170.52,53.65,No
+5575,09-03-2021,West ,Outlet_1,hawaiian,extra large,1,789.0,0.83,11,Other,Wallet,782.45,188.2,No
+5691,23-7-23,south,Outlet_9,MARGHERITA,Small,1,263.0,5.39,17,,UPI,248.82,-84.15,
+5461,15-12-21,CENTRAL,Outlet_9,Hawaiian,Large,2,573.0,10.23,20,Male,Cash,1028.76,448.22,No
+5554,19 Jul 2021,CEN,Outlet_9,FOUR CHEESE,Large,3,664.0,26.61,,Female,Cash,1461.93,374.82,
+5894,2021-09-12, West,Outlet_3,paneer tikka,small,1,310.0,0.0,61,Female,card,310.0,87.49,No
+5207,1 Nov 2022, Central,Outlet_5,PANEER TIKKA,extra large,1,770.0,14.98,10,Female,cash,654.65,-21.95,No
+5393,17-5-23, Central,Outlet_6,farmhouse,extra large,2,701.0,15.66,38,Male,Wallet,1182.45,79.82,Yes
+5795,10 Sep 2021,Central ,Outlet_15,pepperoni,large,1,556.0,9.83,42,,Card,501.35,15.32,No
+5398,25-11-2022,North ,Outlet_10,MEAT LOVERS,large,2,719.0,14.97,16,Other,wallet,1222.73,263.55,No
+5767,8-5-23,west,Outlet_16,VEGGIE SUPREME,large,3,588.0,8.64,16,Male,cash,1611.59,144.0,No
+5864,2023/01/23,West,Outlet_5,bbq chicken,large,2,496.0,25.51,16,,UPI,738.94,-14.83,No
+5218,21 Dec 2022,WEST,Outlet_12,HAWAIIAN,Extra Large,2,751.0,15.49,21,Female,wallet,1269.34,497.18,No
+5005,11-11-2021,CENTRAL,Outlet_2,farmhouse,large,1,553.0,6.24,23,,card,518.49,149.59,No
+5769,2022/10/16,EAST,Outlet_12,BBQ CHICKEN,Extra Large,1,651.0,10.71,50,,NetBanking,581.28,276.4,No
+5643,04/06/2023, West,Outlet_5,VEGGIE SUPREME,extra large,1,768.0,9.55,32,Female,Cash,694.66,202.61,No
+5913,10/20/2022,central,Outlet_18,Pepperoni,Large,1,544.0,0.0,54,Female,wallet,544.0,110.43,No
+5613,2022-09-24,central,Outlet_2,PANEER TIKKA,extra large,1,742.0,11.0,25,Other,Wallet,660.38,62.15,No
+5739,1-10-23,South,Outlet_4,paneer tikka,Small,2,350.0,12.47,33,,Cash,612.71,318.88,No
+5547,19-11-2023, South,Outlet_11,Margherita,Large,2,418.0,9.62,53,,NetBanking,755.58,-175.71,No
+5726,2021/06/18, West,Outlet_5,farmhouse,Extra Large,2,698.0,1.64,55,,wallet,1373.11,-292.84,No
+5684,2023/02/07,EAST,Outlet_3,PANEER TIKKA,Extra Large,1,745.0,11.28,150,Male,upi,660.96,119.38,No
+5099,14-10-2022,CENTRAL,Outlet_11,farmhouse,Extra Large,2,745.0,13.08,41,Male,Card,1295.11,4.18,No
+5805,20 Oct 2023,central,Outlet_19,Farmhouse,extra large,1,744.0,11.6,14,Other,NetBanking,657.7,269.48,No
+5728,28-08-2022,NORTH,Outlet_12,Cheese Burst,small,1,367.0,8.23,70,Female,card,336.8,41.98,No
+5574,20 May 2022,North,Outlet_4,Four Cheese,extra large,2,856.0,0.86,31,,UPI,1697.28,859.99,No
+5407,20 Dec 2023,EAST,Outlet_5,paneer tikka,large,3,600.0,9.68,49,Female,NetBanking,1625.76,514.23,No
+5503,3 Feb 2021,south,Outlet_3,Hawaiian,Small,1,348.0,9.97,70,,wallet,313.3,-16.19,No
+5048,05/17/2023,east,Outlet_16,PANEER TIKKA,Extra Large,1,736.0,7.38,66,Female,Card,681.68,69.24,No
+5033,04-11-2022,EAST,Outlet_9,four cheese,Large,1,652.0,16.5,47,Male,NetBanking,544.42,245.67,No
+5780,2022-08-01,WEST,Outlet_17,PEPPERONI,Extra Large,1,705.0,11.13,23,Female,netbanking,626.53,-108.82,No
+5840,09/20/2021,CEN,Outlet_7,Four Cheese,large,1,639.0,30.72,33,Other,Cash,442.7,131.01,No
+5201,2021-07-21,west,Outlet_2,Veggie Supreme,Medium,1,402.0,19.44,17,Other,upi,323.85,27.9,No
+5135,2023-03-10, West,Outlet_7,PANEER TIKKA,medium,1,440.0,7.98,41,Female,cash,404.89,-28.16,No
+5028,6-8-23,EAST,Outlet_9,veggie supreme,small,2,382.0,18.25,55,Other,Wallet,624.57,228.75,No
+5896,19-05-2023,NOR,Outlet_7,Paneer Tikka,Large,2,582.0,17.62,35,Male,card,958.9,-271.91,No
+5231,2023-05-05, East,Outlet_3,PEPPERONI,medium,1,410.0,14.03,20,Female,upi,352.48,26.07,No
+5490,2022-02-05,Central ,Outlet_2,meat lovers,extra large,1,897.0,14.56,23,Female,Wallet,766.4,-280.93,No
+5773,2021/11/21,SOU,Outlet_15,Peri Peri,extra large,1,792.0,22.11,27,,NetBanking,616.89,188.87,No
+5379,6 May 2022,west,Outlet_8,PEPPERONI,Extra Large,1,,5.0,41,,card,286.5,53.07,No
+5289,8-4-21,Central,Outlet_1,mexican green wave,large,1,607.0,0.0,38,,cash,607.0,-13.12,No
+5419,24-08-2023, North,Outlet_17,Farmhouse,extra large,2,698.0,5.86,54,Female,upi,1314.19,606.98,No
+5675,2021-11-22,East ,Outlet_13,Cheese Burst,large,3,720.0,9.44,44,Male,upi,1956.1,542.43,No
+5392,16-9-21, North,Outlet_3,farmhouse,large,1,540.0,4.98,63,Other,cash,513.11,278.36,No
+5593,2021-08-25,WEST,Outlet_1,Four Cheese,medium,1,507.0,0.0,22,Female,NetBanking,507.0,323.56,No
+5499,22-2-23,NORTH,Outlet_11,Mexican Green Wave,medium,2,444.0,6.38,16,,Wallet,831.35,-253.38,No
+5139,2023/09/05,East ,Outlet_4,paneer tikka,large,2,564.0,19.31,29,Other,upi,910.18,165.7,No
+5063,2022/09/08,WES,Outlet_17,meat lovers,extra large,1,883.0,0.0,53,Male,upi,883.0,262.58,No
+5472,1 Sep 2021,WES,Outlet_12,MEAT LOVERS,large,3,730.0,4.4,51,Male,card,2093.64,877.25,No
+5648,17-12-2021,WEST,Outlet_1,meat lovers,small,1,395.0,19.89,46,,Card,316.43,126.02,No
+5129,25-3-23,CEN,Outlet_3,meat lovers,Large,1,729.0,26.98,57,Female,Card,532.32,205.74,No
+5995,07/15/2023,North,Outlet_2,VEGGIE SUPREME,large,4,617.0,20.1,,,cash,1971.93,-2.26,No
+5521,2022-03-09,West ,Outlet_19,Paneer Tikka,large,3,586.0,14.18,62,,Wallet,1508.72,98.46,No
+5839,28-12-22, North,Outlet_11,VEGGIE SUPREME,medium,3,,17.89,36,Male,upi,854.15,356.59,No
+5981,2021/11/26, North,Outlet_4,Hawaiian,Small,1,344.0,26.59,24,,cash,252.53,-0.98,No
+5065,11-7-21,east,Outlet_4,farmhouse,large,1,558.0,5.47,14,Male,Card,527.48,105.46,No
+5813,2022/04/08,east,Outlet_15,CHEESE BURST,Large,2,701.0,14.95,58,Other,Wallet,1192.4,705.3,No
+5015,2023/03/02,Central ,Outlet_6,Cheese Burst,Medium,1,490.0,5.19,47,Male,netbanking,464.57,56.52,No
+5157,2023/11/06,North,Outlet_19,Cheese Burst,Small,1,369.0,5.27,28,,card,349.55,101.17,No
+5041,25-4-23,EAST,Outlet_15,meat lovers,large,1,687.0,0.0,23,Female,NetBanking,687.0,93.48,No
+5493,2023-09-08,West,Outlet_19,PANEER TIKKA,small,2,320.0,9.28,51,,NetBanking,580.61,271.74,No
+5380,26 May 2021,EAS,Outlet_6,BBQ Chicken,extra large,2,617.0,14.14,65,Male,card,1059.51,36.93,No
+5188,28-02-2023,South ,Outlet_15,farmhouse,small,2,303.0,10.78,57,,wallet,540.67,13.73,No
+5764,1 Dec 2023,NORTH,Outlet_11,four cheese,Medium,1,490.0,14.74,41,Other,upi,417.77,140.23,No
+5217,21-12-21,south,Outlet_17,paneer tikka,Small,3,357.0,20.95,45,Male,Cash,846.63,-10.99,No
+5792,10-01-2021,NOR,Outlet_3,Cheese Burst,small,1,379.0,8.19,54,Other,cash,347.96,88.2,No
+5053,2021-03-06,Central ,Outlet_13,veggie supreme,extra large,2,754.0,3.58,52,Male,upi,1454.01,214.82,No
+5879,05/21/2021,Central ,Outlet_6,FOUR CHEESE,extra large,1,857.0,2.52,43,Male,card,835.4,331.82,No
+5338,7 Dec 2022, Central,Outlet_11,bbq chicken,Medium,1,342.0,5.63,67,Female,Card,322.75,55.98,No
+5749,11-6-22, North,Outlet_17,pepperoni,Extra Large,1,724.0,13.56,60,Other,upi,625.83,262.43,No
+5720,8-6-22,central,Outlet_2,farmhouse,extra large,2,715.0,13.65,65,Other,card,1234.8,756.93,No
+5725,2022-08-14,West,Outlet_7,BBQ CHICKEN,Large,2,521.0,7.08,57,Other,cash,968.23,11.77,No
+5296,11/19/2021, South,Outlet_3,Veggie Supreme,Medium,1,422.0,12.71,54,Female,upi,368.36,35.71,Yes
+5702,2023/08/25,west,Outlet_7,paneer tikka,medium,1,410.0,4.65,19,Female,cash,390.94,151.68,No
+5252,27 Feb 2023,SOUTH,Outlet_8,FOUR CHEESE,large,2,663.0,3.11,61,Male,UPI,1284.76,622.63,No
+5727,23 Dec 2023,EAS,Outlet_8,MEXICAN GREEN WAVE,small,1,330.0,26.45,14,Female,Cash,242.72,-9.86,No
+5462,2021-12-02,South,Outlet_15,Veggie Supreme,Medium,1,439.0,11.53,34,Female,Wallet,388.38,73.52,No
+5456,18-3-21,WES,Outlet_3,MARGHERITA,Extra Large,1,546.0,18.53,20,Other,netbanking,444.83,184.1,No
+5055,2 Oct 2023,East ,Outlet_10,bbq chicken,medium,1,354.0,11.4,52,Female,Card,313.64,72.61,No
+5816,14-8-23,SOUTH,Outlet_12,bbq chicken,small,1,293.0,4.83,51,Female,Cash,278.85,5.62,No
+5863,2022-05-23,South,Outlet_13,hawaiian,Medium,1,420.0,0.0,32,,Wallet,420.0,86.22,No
+5270,28-03-2021,North ,Outlet_16,margherita,Medium,1,329.0,12.08,26,Male,cash,289.26,-0.25,Yes
+5202,2021/05/14,West ,Outlet_17,mexican green wave,Large,1,595.0,0.0,60,Male,upi,595.0,268.21,No
+5162,26 Dec 2021,WEST,Outlet_14,bbq chicken,medium,1,370.0,7.52,42,Male,UPI,342.18,83.78,Yes
+5556,2023/01/21,North ,Outlet_15,Meat Lovers,Medium,1,513.0,11.91,33,Female,card,451.9,57.93,No
+5730,24 Mar 2023,South,Outlet_8,Four Cheese,Large,1,701.0,16.88,35,,card,582.67,36.93,No
+5402,10/26/2022,CEN,Outlet_6,pepperoni,Large,1,573.0,13.67,10,,Card,742.01,123.15,No
+5703,10 Jul 2022,SOU,Outlet_9,farmhouse,Small,2,,5.16,19,,Cash,710.88,387.57,No
+5477,14-12-2022,SOU,Outlet_6,Farmhouse,Extra Large,1,746.0,0.0,21,Female,Cash,746.0,-193.78,No
+5822,26-03-2022,NORTH,Outlet_20,four cheese,small,1,408.0,9.38,41,Female,Cash,369.73,53.21,No
+5772,18 Apr 2022,South,Outlet_20,Meat Lovers,small,2,404.0,9.34,34,,Cash,732.53,114.02,No
+5106,23-4-23, South,Outlet_16,hawaiian,small,1,381.0,40.82,59,Female,NetBanking,338.21,99.49,No
+5566,27-01-2021,North ,Outlet_11,VEGGIE SUPREME,Extra Large,1,760.0,1.57,44,Male,Cash,748.07,41.33,No
+5390,8-5-22,CEN,Outlet_8,four cheese,extra large,1,886.0,19.19,53,Female,card,715.98,28.18,No
+5002,14-9-23,West,Outlet_9,Margherita,Large,2,443.0,15.18,16,Male,card,751.51,364.19,No
+5954,2021/02/12, East,Outlet_8,Farmhouse,extra large,1,689.0,1.15,29,Other,netbanking,340.54,46.66,No
+5142,09/06/2021,South,Outlet_15,Meat Lovers,small,1,442.0,10.56,49,,netbanking,395.32,40.69,No
+5562,08-06-2021,West ,Outlet_12,four cheese,Large,2,,12.77,23,,netbanking,589.61,223.82,No
+5932,21-9-22, North,Outlet_13,Peri Peri,Small,1,343.0,21.29,39,,wallet,269.98,43.27,No
+5081,2022-03-27, North,Outlet_9,Veggie Supreme,extra large,2,806.0,15.25,17,Other,Card,1366.17,-20.41,No
+5206,26 Jul 2023, Central,Outlet_6,Meat Lovers,Large,2,687.0,10.38,68,,netbanking,1231.38,110.81,No
+5035,08/04/2022,WEST,Outlet_15,Peri Peri,large,1,662.0,12.89,44,,upi,576.67,29.4,No
+5776,25-6-22,East,Outlet_18,Veggie Supreme,large,1,618.0,8.19,23,,UPI,567.39,-6.75,No
+5509,2 Mar 2023,South,Outlet_16,mexican green wave,Medium,1,480.0,24.38,58,,wallet,362.98,111.86,No
+5428,2023/07/18,North,Outlet_15,paneer tikka,Large,1,615.0,17.87,32,Female,netbanking,505.1,69.3,No
+5455,2021/12/20,NOR,Outlet_7,Cheese Burst,large,1,681.0,16.56,33,Male,UPI,568.23,159.93,No
+5367,2022/09/22,North ,Outlet_5,PEPPERONI,large,2,553.0,7.09,33,Female,cash,1027.58,173.26,No
+5092,10-10-21,South,Outlet_4,Farmhouse,Medium,1,426.0,3.14,30,Other,Card,412.62,-14.1,No
+5340,2021-06-08,NOR,Outlet_20,Hawaiian,Extra Large,1,793.0,10.85,63,,NetBanking,848.35,109.44,No
+5898,2023/01/27, Central,Outlet_12,BBQ CHICKEN,Medium,4,385.0,15.94,19,,netbanking,1294.52,252.54,No
+5565,4 Jul 2021,South ,Outlet_9,farmhouse,medium,1,410.0,1.68,39,,Card,403.11,121.96,No
+5346,2022-08-16,CENTRAL,Outlet_4,PANEER TIKKA,small,1,355.0,24.02,70,Male,Wallet,269.73,99.03,No
+5777,2021-01-21,North,Outlet_2,bbq chicken,extra large,1,638.0,7.02,18,Other,cash,593.21,235.95,No
+5242,2021-09-13,west,Outlet_2,Hawaiian,large,4,561.0,20.93,48,,Card,1774.33,903.12,No
+5014,14 Dec 2022,central,Outlet_18,MEAT LOVERS,Large,1,707.0,0.79,57,Other,Cash,701.41,178.96,No
+5316,12-07-2022,east,Outlet_20,Margherita,extra large,2,550.0,3.68,46,Other,Cash,1059.52,290.62,No
+5601,2 Jan 2023,south,Outlet_2,Cheese Burst,Small,1,387.0,0.0,66,Female,NetBanking,387.0,62.05,No
+5388,03-04-2023,SOUTH,Outlet_6,Veggie Supreme,large,1,601.0,5.39,46,Male,Cash,568.61,116.23,No
+5274,9-12-23,EAST,Outlet_13,Margherita,Small,4,222.0,3.12,29,Female,Wallet,860.29,-355.33,No
+5167,12-9-21,South ,Outlet_15,cheese burst,Medium,1,498.0,19.26,63,Other,UPI,402.09,136.04,No
+5841,5 Jun 2021,West ,Outlet_17,mexican green wave,large,2,607.0,12.61,39,Other,wallet,1060.91,232.21,No
+5525,10-3-22, North,Outlet_8,Veggie Supreme,small,1,,10.96,16,,UPI,,,No
+5647,2021/11/20, South,Outlet_11,Hawaiian,medium,1,446.0,2.77,22,Female,NetBanking,433.65,14.26,No
+5819,2023-02-25,Central,Outlet_12,Four Cheese,Large,1,661.0,-5.0,42,Male,wallet,694.05,169.78,No
+5485,10/03/2023,East,Outlet_13,FOUR CHEESE,large,2,666.0,9.64,31,Female,Card,1203.6,275.22,No
+5999,2022-08-28,West,Outlet_18,Four Cheese,large,1,648.0,150.0,70,Male,upi,-324.0,-72.79,
+5505,04/06/2023,CENTRAL,Outlet_5,FARMHOUSE,medium,3,424.0,8.23,31,Female,wallet,1167.31,216.39,No
+5832,2022/01/11,South ,Outlet_8,MEAT LOVERS,extra large,3,930.0,18.24,28,Female,netbanking,2281.1,257.87,No
+5244,03/22/2023,south,Outlet_1,Hawaiian,Medium,5,446.0,12.49,43,Male,Card,1951.47,1552.93,No
+5567,9 Jun 2022,west,Outlet_13,mexican green wave,Large,3,640.0,25.31,47,,upi,1434.05,203.44,No
+5876,2021/09/14,north,Outlet_20,Veggie Supreme,Small,1,347.0,15.68,56,Other,wallet,292.59,27.18,No
+5563,2023/04/17,EAS,Outlet_9,Cheese Burst,large,1,707.0,0.0,61,,upi,848.4,507.07,No
+5971,2023-11-02,CEN,Outlet_1,PEPPERONI,extra large,2,718.0,9.14,43,Male,Wallet,1304.75,351.69,No
+5687,2021-04-07,South ,Outlet_11,PERI PERI,extra large,1,810.0,0.0,30,Female,Wallet,810.0,297.16,No
+5958,2021-04-24,West ,Outlet_19,paneer tikka,Medium,5,447.0,0.0,26,Female,card,2235.0,42.08,No
+5190,22-02-2023,SOU,Outlet_16,CHEESE BURST,Large,3,712.0,21.61,67,Other,Card,1674.41,622.64,No
+5783,03/04/2023,South,Outlet_7,VEGGIE SUPREME,medium,1,453.0,14.11,17,Other,UPI,389.08,28.58,No
+5700,24-6-23,South,Outlet_7,Mexican Green Wave,medium,1,475.0,0.0,150,,Card,475.0,-67.79,No
+5476,2023-02-04,Central,Outlet_12,Peri Peri,small,2,382.0,-5.0,10,Male,Card,802.2,446.21,No
+5682,2022-09-03,EAS,Outlet_18,Mexican Green Wave,Small,1,390.0,5.09,54,Female,Wallet,370.15,44.24,Yes
+5511,20 Mar 2022, East,Outlet_6,veggie supreme,small,2,349.0,21.19,22,,Card,550.09,200.74,No
+5059,2021/05/16,south,Outlet_18,Farmhouse,large,1,595.0,12.41,36,Male,upi,521.16,90.19,No
+5475,2022/07/23, East,Outlet_7,VEGGIE SUPREME,Large,2,600.0,9.47,66,,netbanking,1086.36,74.92,No
+5561,21-6-22,NOR,Outlet_2,FARMHOUSE,small,1,329.0,0.0,43,Other,card,164.5,59.76,No
+5857,23-03-2021,south,Outlet_2,Cheese Burst,large,1,679.0,2.77,-5,Male,Cash,660.19,161.66,No
+5748,26-07-2021,north,Outlet_15,BBQ CHICKEN,Extra Large,5,626.0,13.16,36,,upi,2718.09,-160.85,No
+5253,09/18/2023,central,Outlet_16,meat lovers,small,1,386.0,14.31,62,Other,upi,330.76,-9.08,No
+5022,2021-05-12,East,Outlet_18,peri peri,Small,1,365.0,9.07,16,,cash,331.89,39.75,No
+5314,8 Jul 2022,West,Outlet_13,farmhouse,large,1,581.0,10.88,22,,cash,517.79,168.36,
+5460,23 Nov 2021,EAST,Outlet_13,peri peri,large,2,646.0,12.95,18,Other,upi,1124.69,113.97,No
+5161,03/12/2023,Central,Outlet_4,Meat Lovers,Extra Large,2,880.0,10.17,40,Other,card,1581.01,500.22,No
+5277,28-07-2022,WES,Outlet_20,Margherita,large,1,467.0,14.24,42,Female,UPI,400.5,187.56,No
+5956,2022-03-02,west,Outlet_17,BBQ Chicken,small,1,323.0,20.48,41,Female,Card,256.85,117.93,No
+5192,9-11-23,Central ,Outlet_12,MEXICAN GREEN WAVE,small,1,362.0,16.98,16,Male,wallet,300.53,65.12,No
+5386,15-11-2021,North,Outlet_13,margherita,small,1,230.0,13.95,59,Female,netbanking,197.92,42.94,No
+5806,2021-06-11,South,Outlet_12,meat lovers,Extra Large,2,946.0,1.87,52,Female,netbanking,1856.62,357.09,No
+5414,12/24/2022,North,Outlet_9,PERI PERI,Large,2,653.0,8.51,49,,cash,1194.86,109.99,No
+5492,4-1-21,East ,Outlet_10,Four Cheese,large,2,649.0,11.57,27,,cash,573.91,184.68,No
+5344,26 Apr 2023,NORTH,Outlet_20,peri peri,Small,1,378.0,7.03,49,Male,cash,351.43,-35.67,No
+5770,2021-03-11,CEN,Outlet_8,veggie supreme,Extra Large,1,796.0,0.87,34,Female,netbanking,789.07,111.47,No
+5309,2022/08/16,East ,Outlet_4,hawaiian,extra large,1,748.0,3.81,42,Male,card,719.5,-49.6,No
+5662,28-12-23,north,Outlet_15,paneer tikka,Small,1,370.0,17.35,33,Other,card,305.81,37.29,No
+5131,26 Apr 2023,NORTH,Outlet_3,mexican green wave,Large,1,601.0,20.14,10,Other,upi,479.96,18.46,No
+5664,11/16/2021,SOU,Outlet_15,veggie supreme,extra large,1,777.0,4.66,50,Male,card,740.79,280.32,No
