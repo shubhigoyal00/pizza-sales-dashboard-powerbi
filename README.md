@@ -19,7 +19,7 @@ The dashboard enables users to quickly identify trends, track KPIs, and gain a c
 📊 KPI tracking: Revenue, Orders, Quantity & Average Order Value
 📅 Time-based sales trend analysis
 🍕 Product and category performance insights
-🎛️ Interactive dashboard for better exploration
+🎛️ Interactive dashboard for better exploration  
 
 ---
 
