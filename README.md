@@ -34,7 +34,7 @@ The dashboard enables users to quickly identify trends, track KPIs, and gain a c
 * 📌 Sales peak during weekends and evening hours
 * 📌 A few top-performing pizzas contribute major revenue
 * 📌 Customer demand varies significantly across time
-* 📌 Category-level analysis helps optimize product strategy
+* 📌 Category-level analysis helps optimize product strategy   
 
 ---
 
