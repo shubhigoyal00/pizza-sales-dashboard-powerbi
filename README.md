@@ -42,7 +42,7 @@ The dashboard enables users to quickly identify trends, track KPIs, and gain a c
 
 * **Power BI** → Dashboard Development
 * **Data Analysis** → Insight Extraction
-* **Data Visualization** → Interactive Charts & KPIs
+* **Data Visualization** → Interactive Charts & KPIs   
 
 ---
 
