@@ -4,7 +4,7 @@
 
 ---
 
-## 🚀 Project Overview
+## 🚀 Project Overview   
 
 This project showcases an interactive Power BI dashboard designed to analyze pizza sales data and uncover key business insights.
 It focuses on understanding revenue patterns, customer ordering behavior, and product performance to support smarter decision-making.
