@@ -9,7 +9,7 @@
 This project showcases an interactive Power BI dashboard designed to analyze pizza sales data and uncover key business insights.
 It focuses on understanding revenue patterns, customer ordering behavior, and product performance to support smarter decision-making.
 
-The dashboard enables users to quickly identify trends, track KPIs, and gain a clear picture of overall business performance through intuitive and visually engaging analytics.
+The dashboard enables users to quickly identify trends, track KPIs, and gain a clear picture of overall business performance through intuitive and visually engaging analytics.  
 
 ---
 
