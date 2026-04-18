@@ -22,29 +22,22 @@ The dashboard provides a clear and intuitive view of business performance throug
 
 ---
 
-## 📷 Dashboard Screens
+## 📷 Dashboard Screens  
 
-### 📊 Overview Dashboard
-
+### 📊 Overview Dashboard  
 ![Overview](images/dashboard-overview.png)
 
-### 🍕 Product Performance
+### 🍕 Product Performance  
+![Product](images/product-performance.png)
 
-<img width="1375" height="745" alt="product-performance" src="https://github.com/user-attachments/assets/fab833d7-0991-436d-833a-602204bbe256" />
-
-
-### 👥 Customer Demographics
-
+### 👥 Customer Demographics  
 ![Customer](images/customer-demographics.png)
 
-### 💰 Discount & Profitability Analysis
-
+### 💰 Discount & Profitability Analysis  
 ![Profit](images/discount-profit-analysis.png)
 
-### 🏪 Outlet Performance
-
+### 🏪 Outlet Performance  
 ![Outlet](images/outlet-performance.png)
-
 ---
 
 ## 📈 Business Insights
