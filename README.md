@@ -1,15 +1,14 @@
 # 🍕 Pizza Sales Performance Dashboard
 
-> Transforming raw sales data into actionable business insights using Power BI  
+> Transforming raw sales data into actionable business insights using Power BI
 
 ---
 
-## 🚀 Project Overview   
+## 🚀 Project Overview
 
-This project showcases an interactive Power BI dashboard designed to analyze pizza sales data and uncover key business insights.
-It focuses on understanding revenue patterns, customer ordering behavior, and product performance to support smarter decision-making.
+This project presents an interactive Power BI dashboard developed to analyze pizza sales data and uncover meaningful business insights. It focuses on identifying revenue trends, customer behavior, and product performance to support data-driven decision-making.
 
-The dashboard enables users to quickly identify trends, track KPIs, and gain a clear picture of overall business performance through intuitive and visually engaging analytics.  
+The dashboard provides a clear and intuitive view of business performance through KPIs, trends, and category-level analysis, enabling users to quickly interpret and act on insights.
 
 ---
 
@@ -19,13 +18,32 @@ The dashboard enables users to quickly identify trends, track KPIs, and gain a c
 📊 KPI tracking: Revenue, Orders, Quantity & Average Order Value
 📅 Time-based sales trend analysis
 🍕 Product and category performance insights
-🎛️ Interactive dashboard for better exploration  
+🎛️ Interactive dashboard for better exploration
 
 ---
 
-## 📷 Dashboard Preview
+## 📷 Dashboard Screens
 
-![Dashboard](images/dashboard.png)
+### 📊 Overview Dashboard
+
+![Overview](images/dashboard-overview.png)
+
+### 🍕 Product Performance
+
+<img width="1375" height="745" alt="product-performance" src="https://github.com/user-attachments/assets/fab833d7-0991-436d-833a-602204bbe256" />
+
+
+### 👥 Customer Demographics
+
+![Customer](images/customer-demographics.png)
+
+### 💰 Discount & Profitability Analysis
+
+![Profit](images/discount-profit-analysis.png)
+
+### 🏪 Outlet Performance
+
+![Outlet](images/outlet-performance.png)
 
 ---
 
@@ -34,7 +52,7 @@ The dashboard enables users to quickly identify trends, track KPIs, and gain a c
 * 📌 Sales peak during weekends and evening hours
 * 📌 A few top-performing pizzas contribute major revenue
 * 📌 Customer demand varies significantly across time
-* 📌 Category-level analysis helps optimize product strategy   
+* 📌 Category-level analysis helps optimize product strategy
 
 ---
 
@@ -42,15 +60,17 @@ The dashboard enables users to quickly identify trends, track KPIs, and gain a c
 
 * **Power BI** → Dashboard Development
 * **Data Analysis** → Insight Extraction
-* **Data Visualization** → Interactive Charts & KPIs   
+* **Data Visualization** → Interactive Charts & KPIs
 
 ---
 
 ## 🧹 Data Cleaning
-Data preprocessing and cleaning were performed using Power BI Power Query Editor. The following steps were applied:
-- Handling missing values  
-- Data transformation and formatting  
-- Filtering and structuring data for analysis
+
+Data preprocessing and cleaning were performed using Power BI Power Query Editor, including:
+
+* Handling missing values
+* Data transformation and formatting
+* Filtering and structuring data for analysis
 
 ---
 
@@ -59,9 +79,14 @@ Data preprocessing and cleaning were performed using Power BI Power Query Editor
 ```
 pizza-sales-dashboard-powerbi/
 │── pizza-sales-dashboard.pbix
-│── pizza_sales.csv
+│── data/
+│     └── pizza_sales_raw.csv
 │── images/
-│     └── dashboard.png
+│     ├── dashboard-overview.png
+│     ├── product-performance.png
+│     ├── customer-demographics.png
+│     ├── discount-profit-analysis.png
+│     └── outlet-performance.png
 │── README.md
 ```
 
@@ -71,7 +96,7 @@ pizza-sales-dashboard-powerbi/
 
 1. Download the `.pbix` file
 2. Open it in Power BI Desktop
-3. Interact with the dashboard and explore insights
+3. Explore the dashboard using filters and visuals
 
 ---
 
@@ -95,4 +120,7 @@ This project demonstrates the ability to:
 
 ## 💬 Let’s Connect
 
-If you have feedback, suggestions, or ideas, feel free to reach out. Always open to learning and improving 🚀
+If you have suggestions or feedback, feel free to connect. Always open to learning and improving 🚀
+
+
+
